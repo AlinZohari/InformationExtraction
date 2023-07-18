@@ -1,0 +1,1258 @@
+Federal Communications Commission FCC 18-38
+Before the
+Federal Communications Commission
+Washington, D.C. 20554
+In the Matter of
+Space Exploration Holdings, LLC
+Application For Approval for Orbital Deployment
+and Operating Authority for the
+SpaceX NGSO Satellite System
+Application For Approval For Orbital Deployment 
+And Operating Authority for the 
+SpaceX NGSO Satellite System Supplement
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+IBFS File No.  SAT-LOA-20161115-00118
+Call Sign S2983
+SAT-LOA-20170726-00110
+Call Sign S3018
+MEMORANDUM OPINION, ORDER AND AUTHORIZATION
+Adopted:  March 28, 2018 Released:  March 29, 2018
+By the Commission:  Commissioner Rosenworcel issuing a statement.
+I. INTRODUCTION
+1. In this Memorandum Opinion, Order and Authorization, we authorize Space Exploration 
+Holdings, LLC (SpaceX) to construct, deploy, and operate a proposed non-geostationary orbit (NGSO) 
+satellite system comprising 4,425 satellites for the provision of fixed-satellite service (FSS) around the 
+world.
+1
+  In granting those parts of SpaceX’s Application and Supplemental Application that were 
+accepted for filing, we address concerns expressed by commenters seeking various conditions on the 
+grant and partially deny two Petitions to Deny.  Grant of this application will enable SpaceX to bring 
+1
+ Space Exploration Holdings, LLC, Application for Approval for Orbital Deployment and Operating Authority for 
+the SpaceX NGSO Satellite System, IBFS File No. SAT-LOA-20161115-00118 (filed Nov. 15, 2016) (SpaceX 
+Application).  On November 22, 2016, SpaceX submitted an erratum to its application that contains a corrected 
+version of the Technical Attachment, in which the scale of the axes in the antenna beam contour diagrams (Figures 
+A.3.1-3 through A.3.1-8 and A.3.2-1 through A.3.2-5) reflects the written description, and a corrected version of the 
+associated GXT files to update those in the original Schedule S.  See Letter from William M. Wiltshire, Counsel to 
+SpaceX, to Marlene H. Dortch, Secretary, FCC, (Nov. 22, 2016) (SpaceX Erratum).  As described below, SpaceX 
+subsequently filed a second application seeking to add certain frequency bands to its system.  Space Exploration 
+Holdings, LLC, Application for Approval for Orbital Deployment and Operating Authority for the SpaceX NGSO 
+Satellite System Supplement, IBFS File No. SAT?LOA?20170726?00110 (filed Jul.. 26, 2017) (SpaceX 
+Supplemental Application).  SpaceX’s request in the Supplemental Application for operations in the 29.3-29.5 GHz 
+frequency bands is not before us, because the International Bureau has not accepted that part of the application for 
+filing.  See Satellite Policy Branch Information:  Space Station Applications Accepted for Filing, Public Notice, 
+Report No. SAT-01277 (IB Oct. 20, 2017).  The International Bureau deferred a determination concerning the 
+acceptability for filing for the 29.3-29.5 GHz band because the International Telecommunication Union (ITU) Radio 
+Regulations limit the use of the band 29.1-29.5 GHz by the FSS to geostationary-satellite systems and feeder links to 
+NGSO systems in the mobile-satellite service.  See 5.535A of the ITU Radio Regulations.  
+Federal Communications Commission FCC 18-38
+2
+high-speed, reliable, and affordable broadband service to consumers in the United States and around the 
+world, including areas underserved or currently unserved by existing networks.
+2
+II. BACKGROUND
+2. Application.  On November 15, 2016, SpaceX filed an application requesting authority for its 
+proposed NGSO FSS satellite system, comprising 4,425 satellites in 83 orbital planes, at an approximate 
+altitude of 1,110 to 1,325 kilometers.  In this application, SpaceX proposes to operate in the 10.7-12.7 
+GHz, 13.85-14.5 GHz, 17.8-18.6 GHz, 18.8-19.3 GHz, 27.5-29.1 GHz, and 29.5-30 GHz bands.  SpaceX 
+also requests waivers of certain Commission rules.
+3
+3. Processing Rounds.  On July 15, 2016, the Commission accepted for filing the petition for 
+declaratory ruling of WorldVu Satellites Limited, d/b/a/ OneWeb (OneWeb Petition).
+4
+  At the same time 
+that the Commission accepted the OneWeb Petition for filing, it initiated a processing round for additional 
+NGSO-like applications and petitions in the frequency bands requested by OneWeb.
+5
+  The processing 
+round closed on November 15, 2016.  Eleven additional applications and petitions were filed for NGSO-
+like satellite systems, including the application filed by SpaceX.
+6
+  On May 26, 2017, the SpaceX 
+Application was accepted for filing, and at the same time a second processing round was initiated for the 
+additional frequency bands requested by other applicants and petitioners.
+7
+  The second processing round 
+closed on July 26, 2017 with two additional applications received, including a supplemental application 
+from SpaceX, which requested the addition of the 12.75-13.25 GHz, 19.7-20.2 GHz and 29.3-29.5 GHz 
+bands.
+8
+  In that application, SpaceX also requested certain waivers of the Commission rules.
+9
+  Each of the 
+2
+ 47 U.S.C. § 151; SpaceX Application, Narrative at 3.
+3
+ SpaceX requests waiver of sections 25.202(a)(1), 25.202(g)(1), 25.157(e), 25.164(b), 25.208(e), 25.145(c), 
+25.146(i), 25.146(a), and 25.202(a)(1) n.6 of the Commission's rules, and conditional waiver of any restriction in 
+section 2.106 of the Commission's rules on SpaceX's proposed use of the 17.8-18.6 GHz band, and waiver of various 
+limitations in the Commission's Schedule S, in connection with this application.
+4
+ OneWeb Petition Accepted for Filing, IBFS File No. SAT-LOI-20160428-00041; Cut-Off Established for 
+Additional NGSO-Like Satellite Applications or Petitions for Operations in the 10.7-12.7 GHz, 14.0-14.5 GHz, 17.8-
+18.6 GHz, 18.8-19.3 GHz, 27.5-28.35 GHz, 28.35-29.1 GHz, and 29.5-30.0 GHz Bands, Public Notice, 31 FCC Rcd 
+7666 (IB 2016).
+5
+ Id.; see also 47 CFR § 25.157(a) (defining “NGSO-like satellite operation” as operation of any NGSO satellite 
+system, and operation of a geostationary-satellite orbit, mobile-satellite service satellite to communicate with earth 
+stations with non-directional antennas).
+6
+ See IBFS File Nos. SAT-MOD-20160624-00060 and SAT-AMD-20161115-00116 (O3b Limited); SAT-PDR-
+20161115-00108 (Telesat Canada); SAT-LOA-20161115-00109 (The Boeing Company); SAT-PDR-20161115-
+00111 (Space Norway AS); SAT-PDR-20161115-00112 (LeoSat MA, Inc.); SAT-LOA-20161115-00113 (Karousel 
+LLC); SAT-PDR-20161115-00114 (Kepler Communications Inc.); SAT-LOA-20161115-00117 (Audacy 
+Corporation); SAT-LOA-20161115-00118 (SpaceX); SAT-PDR-20161115-00120 (ViaSat, Inc.); and SAT-LOA-
+20161115-00121 (Theia Holdings A, Inc.).
+7
+ Applications Accepted for Filing; Cut-off Established for Additional NGSO-like Satellite Applications or Petitions 
+for Operations in the 12.75-13.25 GHz, 13.85-14.0 GHz, 18.6-18.8 GHz, 19.3-20.2 GHz, and 29.1-29.5 GHz Bands, 
+Public Notice, DA 17-524 (IB rel. May 26, 2017).  The application of Kepler Communications Inc. was accepted for 
+filing in a subsequent public notice.  See Satellite Policy Branch Information: Space Station Applications Accepted 
+for Filing, Public Notice, Report No. SAT-01259 (IB Aug. 11, 2017).
+8
+ See IBFS File Nos. SAT-LOA-20170726-00110 (SpaceX Supplemental Application); SAT-LOI-20170726-00111 
+(New Spectrum Satellite, Ltd).  As noted above, SpaceX’s application for operations in the 29.3-29.5 GHz bands 
+was not accepted for filing.
+9
+ In the SpaceX Supplemental Application, SpaceX requests waiver of sections 25.157(e), 25.164(b), 25.145(c), 
+25.146(i), and, to the extent necessary, restrictions on SpaceX’s proposed use of the 19.7-20.2 GHz and 29.3-29.5 
+GHz bands for NGSO operations in the U.S. and various limitations in the Commission’s Schedule S.
+Federal Communications Commission FCC 18-38
+3
+applicants and petitioners filing in this processing round, including OneWeb, proposes an NGSO FSS 
+system that, if approved, would have the same status and the same rights as other participants in the same 
+processing round in case any division of frequencies is required to avoid mutual interference.
+10
+  On June 
+22, 2017, the Commission adopted an order granting the OneWeb Petition (OneWeb Order).
+11
+  On 
+November 2, 2017, the Commission adopted orders granting petitions for U.S. market access by Space 
+Norway and Telesat.
+12
+4. Comments.  Telesat Canada (Telesat) and ViaSat, Inc. (ViaSat) filed petitions to deny the 
+SpaceX Application.  Telesat’s petition is based mainly on concerns related to the impact of the 
+“avoidance of in-line interference” mechanism.
+13
+  ViaSat echoes concerns about the in-line interference 
+mechanism, and in its petition urges the Commission to deny SpaceX’s application unless certain 
+conditions are imposed on the grant.
+14
+  Other satellite operators filed comments expressing concerns 
+regarding SpaceX’s orbital debris showing.
+15
+  SES S.A. (SES) and O3b Limited (O3b) stated that SpaceX 
+has not included files with equivalent isotropically radiated power (EIRP) and power flux density (PFD) 
+masks necessary to independently assess the proposed system’s compliance with applicable equivalent 
+power flux-density (EPFD limits) and that the Commission should defer action on this proposal pending 
+submission of the relevant PFD and EIRP mask data.
+16
+  SpaceX opposed the petitions to deny and 
+10
+ See WorldVu Satellites Limited, Petition for Declaratory Ruling Granting Access to the U.S. Market for the 
+OneWeb NGSO FSS System, Order and Declaratory Ruling, 32 FCC Rcd 5366, 5371-72, para. 11 (2017) (OneWeb 
+Order).
+11
+ See OneWeb Order, 32 FCC Rcd at 5366, para 1.
+12
+ Space Norway AS, Order and Declaratory Ruling, 32 FCC Rcd 9649 (2017) (Space Norway Order); Telesat 
+Canada, Order and Declaratory Ruling, 32 FCC Rcd 9663(2017) (Telesat Canada Order).
+13
+ Telesat argues that SpaceX’s NGSO system would interfere with Telesat’s NGSO operations because the two 
+systems would operate in overlapping geographical areas on overlapping Ka-band frequencies, and that Telesat has 
+demonstrated that in-line interference mechanisms are unworkable.  Furthermore, Telesat states that SpaceX offers 
+no recognition that the Canadian ITU filings that are associated with Telesat’s NGSO system have date priority over 
+later ITU filings that may be associated with SpaceX’s system band frequencies.  Telesat also indicates that grant of 
+SpaceX’s application must be conditioned on the outcome of the NGSO rulemaking, as the Commission did in 
+granting OneWeb’s NGSO application.  Telesat Petition to Deny at 1-5 (filed June 26, 2017).  ViaSat argues that 
+reliance on the “avoidance of in-line interference” mechanism in awarding spectrum would actually harm the ability 
+of competitive NGSO systems to operate effectively.  ViaSat Petition to Deny or Impose Conditions at 75-79 (filed 
+June 26, 2017) (ViaSat Petition to Deny).  ViaSat also argues that SpaceX’s (and others’) requests for waiver of the 
+current and longstanding band segmentation provisions set forth in section 25.157 of the Commission’s rules 
+constitute improper and inequitable post-cutoff notice rule changes.  ViaSat also cites the potential for aggregate 
+interference from multiple NGSO systems into GSO operations.  Id. at 8.
+14
+ See ViaSat Petition to Deny (requesting that Commission condition grant on compliance with the outcome of 
+future rulemakings, limit operations to the parameters specified in the application rather than the limits of what the 
+rules permit, and impose several conditions related to aggregate interference); ViaSat Reply (filed July 14, 2017).
+15
+ Space Norway Comments at 1-5 (filed June 26, 2017); Space Norway Response at 7-10 (filed July 14, 2017); SES 
+S.A. and O3b Limited Comments at 4-7 (filed Aug. 15, 2016) (SES and O3b Comments).  OneWeb also requested 
+further information from SpaceX regarding its plans to mitigate orbital collisions and debris.  WorldVu Satellite 
+Limited Comments at 7-15 (filed June 26, 2017) (OneWeb Comments).  SES and O3b requested SpaceX to provide 
+further technical information regarding orbital debris and EPFD compliance.  SES and O3b Comments at 4-7 (filed 
+June 26, 2017).  Spire made a similar request.  Spire Comments to SpaceX at 3 (filed June 26, 2017) (Spire 
+Comments).
+16
+ SES and O3b Comments at 4-5 (filed June 26, 2017).
+Federal Communications Commission FCC 18-38
+4
+responded to the comments.
+17
+  A number of commenters urge the Commission to hold off acting on the 
+request for partial waiver of the final implementation milestone in Section 25.164(b).
+18
+  SpaceX also 
+responded to these comments.
+19
+  Finally, EchoStar and Hughes filed reply comments in which they 
+argued that SpaceX’s request for waiver of the downlink PFD limits in the 18.8-19.3 GHz band should be 
+denied because it increases the risk of interference to space-to-Earth links that Hughes is authorized to 
+use in the United States, and that grant of this waiver request would change the conditions established by 
+section 25.208(e), upon which Hughes based its decision to operate on a non-interference basis.
+20
+5. Comments to SpaceX Supplemental Application.  OneWeb and SES/O3b filed comments to 
+the SpaceX Supplemental Application.  Similar to its earlier comments, OneWeb argues that the SpaceX 
+FSS constellation would not be able to meet the Commission’s milestone and domestic coverage 
+requirements, and thus SpaceX’s request for waiver of these requirements should be denied.
+21
+  OneWeb 
+also argues that SpaceX had not demonstrated that its system will not increase the risk of collision with 
+other operators or casualty risks upon deorbit, and that grant of SpaceX’s application should be delayed 
+until it provides quantitative data concerning these risks.
+22
+  SES argues that the Commission must 
+condition SpaceX’s authorization in the 19.7-20.2 GHz band to not interfere with SES’s operations as 
+well as other geostationary satellite orbit (GSO) systems.  It further argues that SpaceX’s request for 
+waiver of the implementation milestones should be deferred pending the outcome of the NGSO 
+proceedings, and that SpaceX’s authorization should include terms and conditions similar to those applied 
+to O3b and other systems.
+23
+  SpaceX filed a response to these comments.
+24
+  We address the petitions and 
+comments on both the Application and the Supplemental Application, as well as SpaceX’s responses, in 
+the discussion below.  
+6. NGSO FSS Order.  On September 26, 2017, following the close of the comment cycle in this 
+proceeding, the Commission adopted a Report and Order updating several rules and policies governing 
+NGSO FSS systems, including the proposed SpaceX system.
+25
+  Among other changes, the Commission 
+adopted EPFD limits on NGSO FSS systems operating in portions of the 17.8-20.2 GHz and 27.5-30 GHz 
+frequency bands in order to protect GSO FSS networks.  The Commission also adopted a more flexible 
+17
+ Space X Consolidated Opposition and Response at 22 (filed July 7, 2017) (SpaceX Opposition).  SpaceX agrees 
+with Telesat’s request that any authorization granted in this processing round be conditioned upon compliance with 
+rules adopted in the NGSO NPRM proceeding, including in-line avoidance mechanisms.  SpaceX Opposition at 31.
+18
+ Application, Waiver Requests at 1-2.  OneWeb Comments at 3-11; SES and 03b Comments at 10 and Hughes 
+Reply Comments at 2 (filed July 7, 2017).  Hughes also opposes waiver of the downlink PFD limits in the 18.8-19.3 
+GHz band.  Id. at 3-4.
+19
+ SpaceX Opposition (filed July 7, 2017).  See also SpaceX Consolidated Reply Comments at 9 (filed July 14, 
+2017), wherein SpaceX stated that because it has demonstrated that the requested relief is appropriate in the specific 
+circumstances of this case, it would not be appropriate for the Commission to defer consideration of these issues to 
+the NGSO NPRM proceeding as Intelsat suggests.
+20
+ Hughes Reply Comments at 4.
+21
+ OneWeb Comments to Supplemental Application at 1-2, 4-8 (filed Nov. 20, 2017).
+22
+ Id. at 2-3.
+23
+ SES/O3b Comments to Supplemental Application (filed Nov. 20, 2017).
+24
+ SpaceX Consolidated Response (filed Dec. 5, 2017).
+25
+ Update to Parts 2 and 25 Concerning Non-Geostationary, Fixed-Satellite Service Systems and Related Matters, 
+Report and Order and Further Notice of Proposed Rulemaking, 32 FCC Rcd 7809 (2017), recon. pending (NGSO 
+FSS Order).
+Federal Communications Commission FCC 18-38
+5
+milestone schedule for NGSO constellations.  As these changes are now in effect,
+26
+ we consider below 
+their pertinence to the public interest analysis required to act upon the SpaceX Application.
+III. DISCUSSION
+7. After review of the record, we conclude that grant of the SpaceX Application, as 
+supplemented,
+27
+ will serve the public interest, subject to the requirements and conditions specified herein.  
+Below, we address the various outstanding issues raised by commenters on SpaceX’s Application and 
+Supplemental Application.  We also address SpaceX’s waiver requests.  Where appropriate, we defer 
+matters of general applicability to ongoing or potential future rulemakings.
+8. ITU Coordination.  In its Petition to Deny, Telesat observes that international coordination 
+will be required between the SpaceX system and its own NGSO FSS system.
+28
+  Telesat argues that, at 
+minimum, any grant to SpaceX should be conditioned upon compliance with this international obligation.  
+In response, SpaceX argues in support of the Commission’s avoidance of in-line interference regime, 
+which, it asserts, yields more efficient spectrum sharing results than a regime based solely upon ITU 
+priority.
+29
+  We recently declined to adopt Telesat’s proposal to tie coordination obligations and licensing 
+conditions directly to ITU filing dates by awarding priority according to those dates,
+30
+ and accordingly 
+deny Telesat’s petition in so far as it reiterates Telesat’s ITU filing date priority proposal.  We include a 
+condition requiring SpaceX, like all other NGSO FSS operators, to comply with the spectrum sharing 
+requirements specified in section 25.261 of the Commission’s rules with respect to any other NGSO 
+system licensed or granted U.S. market access pursuant to the processing rounds in which SpaceX 
+participated.
+31
+  We recently adopted changes to section 25.261 that replaced the avoidance of in-line 
+interference methodology for triggering spectrum division (absent coordination) with a default spectrum 
+splitting sharing mechanism that is triggered when the change in system noise temperature caused by 
+interference, or ?T/T, exceeds a threshold of 6 percent.
+32
+  However, we note that outside the United States 
+(i.e., when communications to or from the U.S. territory are not involved) the coexistence between 
+SpaceX’s operations and operations of a system that received a grant for access to the U.S. market are 
+governed only by the ITU Radio Regulations as well as the regulations of the country where the earth 
+station is located and are not subject to section 25.261.
+9. EPFD Analysis.  Several commenters suggested that the EPFD analysis provided by SpaceX 
+is insufficient and that the Commission should request a supplemental EPFD analysis.
+33
+  We disagree.  
+We find that SpaceX’s demonstrations in its application and associated filings are sufficient to justify 
+26
+ These rules became effective January 17, 2018, except the amendments to Sections 25.114, 25.115, 25.146, and 
+25.164, which contain information collection requirements that have not been approved by The Office of 
+Management and Budget (OMB).  See 82 Fed. Reg. 59972-01 (Dec. 18, 2017).  The Commission will publish a 
+document in the Federal Register announcing such OMB approval and the effective date of these rule amendments. 
+27
+ SpaceX Supplemental Application, IBFS File No SAT?LOA?20170726?00110.
+28
+ Telesat Petition to Deny at 3-4; Telesat Reply (filed July 7, 2017); see also ITU Radio Regulations, No. 9.12 
+(requiring coordination of certain NGSO systems), No. 9.53 (requiring both parties in coordination to “make every 
+possible mutual effort to overcome [coordination] difficulties, in a manner acceptable to the parties concerned”), No. 
+11.42 (requiring the immediate cessation of harmful interference actually caused to a recorded assignment with 
+which coordination is required but has not been effected).
+29
+ SpaceX Consolidated Reply (dated July 14, 2017) at 9-10.
+30
+ NGSO FSS Order at 32 FCC Rcd 7825-26, para. 50.
+31
+ See OneWeb Order, 32 FCC Rcd at 5377, see also infra, para. 45.
+32
+ NGSO FSS Order at 32 FCC Rcd 7825, para. 49.
+33
+ See SES and O3b Comments at 3-5; SES and O3b Reply at 2-5 (filed July 14, 2017); OneWeb Comments at 3, 
+15-16; Hughes Comments at 2-3.
+Federal Communications Commission FCC 18-38
+6
+grant of its application.  Furthermore, SpaceX has provided a revised EPFD analysis using ITU-approved 
+software.
+34
+  To ensure that SpaceX will satisfy its EPFD obligations going forward, we condition this 
+grant on SpaceX receiving a favorable or “qualified favorable” rating of its EPFD demonstration by the 
+ITU prior to initiation of service.
+35
+ Review by the ITU of SpaceX compliance with ITU EPFD limits, 
+using methods now approved by the ITU,
+36
+ will provide sufficient assurances beyond the other technical 
+demonstrations that SpaceX has already provided that SpaceX will comply with the EPFD limits 
+specified in Article 22 of the Radio Regulations.
+10. As we did in other recent approvals for NGSO FSS operations,
+37
+ we are permitting SpaceX to 
+operate up to the PFD and EPFD levels specified in applicable regulations, rather than the levels 
+associated with specific demonstrations in its application.  We find this flexibility is warranted given the 
+preliminary nature of the system design, the fact that this grant is conditioned on SpaceX’s satisfaction of 
+the ITU’s EPFD assessment and the condition that SpaceX cooperate with other NGSO operators to meet 
+limits for aggregate EPFD.  We therefore reject ViaSat’s arguments that SpaceX should be limited to the 
+levels used in the EPFD demonstration in its application and deny this portion of ViaSat’s Petition to 
+Deny.
+38
+11. Buffer Zone and Orbital Debris.  To avoid collisions with OneWeb satellites, OneWeb 
+requested that grant of SpaceX’s application be conditioned on SpaceX maintaining “an approximate 125 
+kilometer altitude buffer zone (the “Safety Buffer Zone”) between its constellation and other NGSO 
+systems,” including OneWeb’s own NGSO system, subject to coordination.
+39
+  As a preliminary matter, 
+the scope of OneWeb’s request is unclear and could be interpreted to request a buffer zone that spans 
+altitudes between 1,015 and 1,385 kilometers.  Imposition of such a zone could effectively preclude the 
+proposed operation of SpaceX’s system, and OneWeb has not provided legal or technical justification for 
+a buffer zone of this size.  While we are concerned about the risk of collisions between the space stations 
+of NGSO systems operating at similar orbital altitudes, we think that these concerns are best addressed in 
+the first instance through inter-operator coordination.  At this stage, we do not believe it appropriate to 
+specify the methods for effecting coordination, which may involve a wide range of changes in system 
+design and operations.  SpaceX will be subject to the same conditions as OneWeb, Telesat Canada, and 
+Space Norway,
+40
+ including the requirement that it coordinate its physical operations with space stations of 
+NGSO systems operating at similar orbital altitudes.  To the extent that SpaceX and other NGSO 
+operators fail to come to an agreement regarding physical coordination, the Commission may intervene as 
+appropriate.  
+12. An applicant for a space station authorization must submit a description of the design and 
+operational strategies that it will use to mitigate orbital debris, including a statement detailing post-
+34
+ Letter from William M. Wiltshire, Counsel to SpaceX, to Marlene H. Dortch, Secretary, Federal Communications 
+Commission (dated July 12, 2017) (SpaceX July 12, 2017 Letter) (indicating that SpaceX has submitted updated 
+data files that would enable interested parties with access to the Transfinite software to review the EPFD analysis for 
+SpaceX’s system).
+35
+ See infra para. 40(n).
+36
+ Letter from Francois Rancy, Director, ITU Radiocommunication Bureau, to Administrations of ITU Member 
+States, “Examinations under Resolution 85 (WRC-03)” (Dec. 6, 2016), https://www.itu.int/md/R00-CR-CIR-
+0414/en.  SpaceX modified the beta software to reflect the specifics of its system design.
+37
+ See OneWeb Order, Space Norway Order; Telesat Canada Order (collectively, “NGSO FSS Commission 
+grants”).
+38
+ ViaSat Petition to Deny at 3-8.
+39
+ OneWeb Comments at 12.
+40
+ OneWeb Order, 32 FCC Rcd at 5378, para. 25(d), Space Norway Order, 32 FCC Rcd at 9649, para. 26(c); Telesat 
+Canada Order, 32 FCC Rcd at 9663, para. 12.
+Federal Communications Commission FCC 18-38
+7
+mission disposal plans for space stations at the end of their operating life.
+ 
+41
+  SpaceX included an orbital 
+debris mitigation plan in its application.
+42
+  Thereafter, the Satellite Division (Division) sent a letter to 
+SpaceX requesting additional information regarding its orbital debris mitigation plan.
+43
+  On April 20, 
+2017, SpaceX provided answers to the Division’s questions.
+44
+  
+13. In its comments, Spire Global (Spire) raises concerns about SpaceX’s orbital debris 
+mitigation plan.  Specifically, Spire asserts that more information is needed regarding those NGSO 
+applications, including SpaceX’s, with post-mission disposal plans through atmospheric re-entry so that 
+existing operators can assess the risk from those disposals.
+45
+  OneWeb argues that SpaceX fails to provide 
+critical information necessary for other NGSO operators to properly assess the potential for its 
+constellation to become a source of orbital debris.
+46
+  The National Aeronautics and Space Administration 
+(NASA) also raises the general concern, mainly in response to SpaceX’s satellite constellation, that 
+NGSO applicants seeking to deploy a large number of satellites (i.e., over 4,000) may need to ensure a 
+higher degree of reliability in their post-mission disposal operations than NASA’s current 90% reliability 
+standard.
+47
+14. In its reply, SpaceX agrees that given the number of NGSO systems that may be launched 
+over the next decade, physical coordination between systems may be required.
+48
+  SpaceX further agrees 
+that operators should share satellite location data and other information that will allow all systems to 
+coexist safely in space.
+49
+  Regarding OneWeb’s concern about collisions between SpaceX satellites, 
+SpaceX states that the tolerances of the specified orbital parameters afford sufficient flexibility to achieve 
+necessary spacing between satellites, and it has designed its spacecraft with the capability to avoid 
+potential collisions, which it can use as necessary to ensure safe operating distances.
+50
+  SpaceX indicates 
+that it will receive ephemeris data from its own spacecraft, which will provide precise location 
+information and thereby enable SpaceX to operate with a high level of confidence with respect to 
+potential conjunctions.  SpaceX notes that it continues to refine its operational strategies to enhance 
+safety, citing “an ongoing simulation corroborating probabilities between information from the Joint 
+Space Operations Center (JSpOC) and the predictions of NASA’s Orbital Debris Engineering Model, 
+which is used to analyze collision risks under different maneuver protocols.”
+51
+  SpaceX argues that it has 
+provided more detailed information and analysis related to its orbital debris mitigation and end-of-life 
+disposal plans than any other applicant in this processing round, including:  (1) a demonstration that 
+SpaceX satellites will re-enter the Earth’s atmosphere within approximately one year after completion of 
+their mission – much sooner than the international standard of 25 years, and (2) the inputs and outputs of 
+an assessment using NASA’s Debris Assessment Software (DAS), which indicates a level of safety that 
+41
+ Mitigation of Orbital Debris, Second Report and Order, 19 FCC Rcd 11567, 11619 (2004); 47 CFR 
+§ 25.114(d)(14).
+42
+ See SpaceX Application, Technical Supplement to Schedule S, Section A.11, at 49-68.
+43
+ See Letter from Jose P. Albuquerque, Chief, Satellite Division, to William M. Wiltshire, Counsel to SpaceX 
+(dated Mar. 21, 2017) (March 21 Letter).
+44
+ See Letter from William M. Wiltshire, Counsel to SpaceX, to Jose P. Albuquerque, Chief, Satellite Division 
+(dated May 5, 2017).
+45
+ Spire Global Comments at 2-5 (filed June 26, 2017).
+46
+ OneWeb Comments at 11-15.
+47
+ NASA Comments at 2 (filed June 26, 2017).
+48
+ SpaceX Consolidated Reply at 9.
+49
+ Id.
+50
+ SpaceX Opposition at 10-11.
+51
+ Id. at 11.
+Federal Communications Commission FCC 18-38
+8
+exceeds the requirements established by NASA and regulatory authorities in other countries.
+52
+  SpaceX 
+states it is also working directly with NASA on a higher fidelity re-entry analysis, employing NASA’s 
+proprietary Object Reentry Survival Analysis Tool (ORSAT), a more comprehensive model that provides 
+a greater level of precision and insight over the standard DAS analysis that can help guide SpaceX as it 
+continues to refine its system and operations.
+53
+15. Although we appreciate the level of detail and analysis that SpaceX has provided for its 
+orbital debris mitigation and end-of-life disposal plans, we agree with NASA that the unprecedented 
+number of satellites proposed by SpaceX and the other NGSO FSS systems in this processing round will 
+necessitate a further assessment of the appropriate reliability standards of these spacecraft, as well as the 
+reliability of these systems’ methods for deorbiting the spacecraft.
+54
+  
+Pending further study,
+55
+ it would be 
+premature to grant SpaceX’s application based on its current orbital debris mitigation plan.  Accordingly, 
+we believe it is appropriate to condition grant of SpaceX’s application on the Commission’s approval of 
+an updated description of the orbital debris mitigation plans for its system.
+56
+  
+16. Matters Broadly Applicable to NGSO FSS Applications.  Hughes urges the Commission to 
+adopt mechanisms for ensuring that aggregate EPFD limits are met by all NGSO systems authorized in 
+the United States.
+57
+  ViaSat questions the sufficiency of the EPFD limits proposed by the Commission to 
+protect GSO systems from harmful interference and requests that each NGSO operator be held jointly and 
+severally liable for harmful interference caused to GSO systems until the Commission adopts adequate 
+aggregate EPFD limits and enforcement mechanisms.
+58
+  Space Norway requests that grant of SpaceX’s 
+application be conditioned on SpaceX’s implementation of mechanisms to avoid in-line interference with 
+highly elliptical orbit NGSO systems, such as that proposed by Space Norway.
+59
+  Spire states that the 
+Commission should condition grant of these applications on the outcome of future rulemakings, 
+specifically if the Commission adopts any new orbital debris requirements.
+60
+17. All of these comments relate to issues of general applicability that are more appropriately 
+addressed in the context of a rulemaking.  Several of these issues were already raised in the then-ongoing 
+52
+ Id. at 7.
+53
+ Id. at 6-7.
+54
+ NASA Comments (filed June 26, 2017) (noting that (1) the reliability of the design and fabrication of the 
+spacecraft and the reliability that the spacecraft can accomplish the post-mission disposal are of particular interest 
+from the perspective of keeping the orbital environment safe, and that currently, no consensus exists on what the two 
+reliability numbers should be, and (2) a design and fabrication reliability on the order of 0.999 or better per 
+spacecraft may be prudent to mitigate the risk of malfunction in a 4,000+ spacecraft constellation).
+55
+ In addition to the ongoing work by SpaceX, we also note that NASA identifies two studies, currently underway, 
+that may shed light on best practices for large satellite constellations: NASA’s Orbital Debris Program Office 
+(ODPO) is performing an internal parametric study which will be completed by May of this year, and the IADC 
+study on large constellations will take another year or so to complete.  In the meantime, NASA recommends that 
+companies proposing large constellations should develop ways to deal with random failures such that they not pose a 
+threat to other U.S. assets including the International Space Station.  Id.
+56
+ We have required applicants to file a modification application including updated orbital debris mitigation 
+information in some instances.  See, e.g., Space Norway Order, 32 FCC Rcd 9649, para. 11; Telesat Canada Order, 
+32 FCC Rcd 9663, para. 14.  See also Northrop Grumman Space & Mission Systems Corp., Order and 
+Authorization, 24 FCC Rcd 2330, 2363-64, para. 102 (IB 2009) (Northrop Grumman Order); ContactMEO 
+Communications, LLC, Order and Authorization, 21 FCC Rcd 4035, 4052-53, para. 47 (IB 2006).
+57
+ Hughes Comments at 3.
+58
+ ViaSat Petition to Deny (filed June 26, 2017).  
+59
+ Space Norway Comments at 2.
+60
+ Spire Global Comments at 2-5.
+Federal Communications Commission FCC 18-38
+9
+rulemaking proceeding concerning NGSO FSS matters
+61
+ that were addressed in a Report and Order 
+adopted September 26, 2017.
+62
+  For example, Hughes and ViaSat express concerns about international 
+EPFD limits and aggregate EPFD enforcement mechanisms, and these concerns have since been 
+addressed in the NGSO FSS Order.
+63
+  Space Norway’s request for a condition requiring SpaceX to protect 
+the Space Norway NGSO system as though it were a GSO space station is in effect a request that the 
+Commission reevaluate its licensing procedures with regard to an entire class of NGSO systems, i.e., 
+those with highly-elliptical orbits.  As indicated above, we defer consideration of such broadly applicable 
+matters to future rulemakings, and condition grant of the SpaceX application on the outcome of such 
+rulemaking proceedings, including the most recent NGSO FSS decision.
+64
+  We note that, as with the 
+OneWeb Order, Telesat Canada Order, and Space Norway Order, grant of the SpaceX application will not 
+prejudge any decision, including a contrary action, in any future rulemaking proceedings.
+65
+  Rather, 
+decisions of general applicability in such proceedings will be based on the totality of comments and 
+proposals in those proceedings, including SpaceX’s.
+66
+  Accordingly, in addition to being subject to any 
+future proceedings, SpaceX would have to comply with any new orbital debris requirements.
+18. Radio Astronomy.  Out-of-band signals into allocated radio astronomy bands can cause 
+interference to radio astronomy observations.
+ 67
+  We also note that radio astronomy as a service frequently 
+makes use of observations (passive) in bands not allocated to the radio astronomy service.  This practice 
+is a result of scientifically valuable signals being subject to the Doppler Effect and shifted in frequency 
+outside radio astronomy-allocated bands.  Although not a condition to this authorization, SpaceX should 
+be aware of these facts and contact the National Science Foundation Spectrum Management Unit 
+(esm@nsf.gov) to assist with coordination and information on radio astronomy sites.
+19. Conditions.  Below, we condition this grant of authority in response to comments and as 
+warranted in the public interest.  These conditions relate to ITU coordination, power limits, avoidance of 
+interference, orbital debris mitigation, future rulemakings, bond and milestone requirements, and other 
+existing requirements in our rules and in footnotes to the Table of Frequency Allocations.  We also 
+include specific conditions related to our waiver grants.  To the extent that the SpaceX application raises 
+the same concerns as those raised in the recent proceedings for addressing market access for NGSO FSS 
+operations in the United States, e.g., OneWeb, Space Norway, Telesat, we impose substantially identical 
+conditions on SpaceX’s grant.  In their comments, SES/O3b asks that we impose on any grant for the 
+61
+ Update to Parts 2 and 25 Concerning Non-Geostationary, Fixed-Satellite Service Systems and Related Matters, 
+Notice of Proposed Rulemaking, 31 FCC Rcd 13651, 13656-58, paras. 12, 17 (2016) (NGSO FSS NPRM).
+62
+ See generally NGSO FSS Order. 
+63
+ Recently, we considered ViaSat’s concerns regarding the sufficiency of existing international EPFD limits and 
+found that although ViaSat had not proposed any new EPFD limits, it would not be advisable to remain without Ka-
+band EPFD limits in our rules pending such deliberations.  Thus we adopted the ITU EPFD limits in the 17.8-30 
+GHz frequency range and require NGSO FSS licensees to comply with existing aggregate EPFD limits.  See NGSO 
+FSS Order at 7820-21, para. 35.
+64
+ We note that this condition also addresses several comments that requested that grant of SpaceX’s application be 
+conditioned on compliance with certain pending and future rulemakings.  See ViaSat Petition to Deny at 3, 7, 9-10; 
+Spire Comments at 3, 5, 7; Hughes Reply at 2.
+65
+ See, e.g., NGSO FSS Order; Use of Spectrum Bands Above 24 GHz For Mobile Radio Services, Report and Order 
+and Further Notice of Proposed Rulemaking, 31 FCC Rcd 8014 (2016) (Spectrum Frontiers R&O and FNPRM); 
+Expanding Flexible Use in Mid-Band Spectrum Between 3.7 and 24 GHz, Notice of Inquiry, 32 FCC Rcd. 6373, 
+6377 n.14 (2017) (Mid-Band NOI).
+66
+ To the extent that commenters believe that their concerns are not already addressed by ongoing rulemakings, we 
+remind commenters that they have the option to file petitions for rulemaking with the Commission.
+67
+ See, e.g. Letter from Harvey S. Liszt, Astronomer and Spectrum Manager, National Radio Astronomy 
+Observatory, to Ajit Pai, Chairman, FCC, (dated Feb. 17, 2018).
+Federal Communications Commission FCC 18-38
+10
+SpaceX system the same conditions that were imposed on O3b’s NGSO FSS constellation.
+68
+  Since the 
+O3b grant however, the Commission has adopted significant revisions to its rules and policies governing 
+NGSO FSS.  The conditions below are consistent with these rule changes. 
+69
+20. Waiver Standard.  SpaceX seeks waivers of certain Commission rules.
+70
+  Generally, the 
+Commission may waive any rule for good cause shown.
+71
+  Waiver is appropriate where the particular 
+facts make strict compliance inconsistent with the public interest.
+72
+  In making this determination, we may 
+take into account considerations of hardship, equity, or more effective implementation of overall policy 
+on an individual basis.
+73
+  Waiver is therefore appropriate if special circumstances warrant a deviation 
+from the general rule and such deviation will serve the public interest.
+74
+  We address the specific requests 
+for waivers below.
+21. Waivers for Frequency Use.  SpaceX requests waivers of the U.S. Table of Frequency 
+Allocations (Table), to perform NGSO FSS operations in the 17.8-18.6 GHz band.
+75
+  SpaceX’s proposed 
+operations in the 17.8-18.6 GHz band, however, are in conformance with the Table as revised in the 
+NGSO FSS Order.
+76
+  Thus, SpaceX’s request for waivers of the Table to perform NGSO FSS operations 
+in the 17.8-18.6 GHz band are moot.  
+22. SpaceX also requests a waiver of section 25.202(a)(1), n.6, in order to permit SpaceX to 
+operate its user terminal earth stations in the 10.7-11.7 GHz band on a non-conforming, non-interference, 
+unprotected basis.
+77
+  We believe this request is more appropriately addressed in the context of an earth 
+station application, since the request ultimately concerns the status of earth station operations.  
+Accordingly, we dismiss the waiver request without prejudice to resubmission in connection with an 
+application to operate earth stations with the SpaceX system.  We observe, however, that we recently 
+modified our rules concerning the use of the 10.7-11.7 GHz band to permit blanket licensing of receive 
+earth stations on an unprotected basis.
+78
+  
+23. Waivers for 19.7-20.2 GHz.  SpaceX seeks a waiver of the Commission’s Ka-band Plan to 
+operate in the 19.7-20.2 GHz frequency band.
+79
+  The 19.7-20.2 GHz frequency band is allocated to the 
+68
+ SES/O3b Comments at 8-10.  SES/O3b Comments to Supplemental Application at 2.
+69
+ To the extent that O3b is concerned about the status of its current and future operations relative to other NGSO 
+systems, we note that, as a participant in the processing rounds, such concerns will be addressed when the 
+Commission acts on O3b’s pending petition.  See O3b Limited, IBFS File Nos. SAT-AMD-20161115-00116 and 
+SAT-MOD-20160624-00060.
+70
+ See supra, note 3.
+71
+ 47 CFR § 1.3.
+72
+ Northeast Cellular Tel. Co. v. FCC, 897 F.2d 1164, 1166 (D.C. Cir. 1990).
+73
+ WAIT Radio v. FCC, 418 F.2d 1153, 1159 (D.C. Cir. 1969), cert. denied, 409 U.S. 1027 (1972); Northeast 
+Cellular, 897 F.2d at 1166.
+74
+ Northeast Cellular, 897 F.2d at 1166.
+75
+ 47 CFR §§ 2.102(a), 2.106.  Non-Federal operations in this band are subject to coordination with Federal systems.  
+47 CFR § 2.106, n.US334.
+76
+ NGSO FSS Order at 32 FCC Rcd 7840.
+77
+ Application, Waiver Requests at 1-2.
+78
+ NGSO FSS Order 32 FCC Rcd at 7817, paras. 24-25.
+79
+ See Redesignation of the 17.7-19.7 GHz Frequency Band, Blanket Licensing of Satellite Earth Stations in the 
+17.7-20.2 GHz and 27.5-30.0 GHz Frequency Bands, and the Allocation of Additional Spectrum in the 17.3-17.8 
+GHz and 24.75-25.25 GHz Frequency Bands for Broadcast Satellite-Service Use, Report and Order, 15 FCC Rcd 
+(continued….)
+Federal Communications Commission FCC 18-38
+11
+fixed-satellite service and mobile-satellite service (space-to-Earth) on a primary basis,
+80
+ however, the 
+Commission’s Ka-band Plan designates this band for the use of the GSO FSS, rather than NGSO FSS 
+systems.
+81
+  In the SpaceX Supplemental Application, SpaceX provided technical demonstrations to show 
+that it will comply with international EPFD limits designed to protect GSO networks in the 19.7-20.2 
+GHz frequency band set forth in Article 22 of the ITU Radio Regulations.  In addition, SpaceX states that 
+it will not cause harmful interference to and is willing to accept interference from GSO FSS operators in 
+this frequency band.
+82
+  SES argues that the Commission must condition SpaceX’s authorization in the 
+19.7-20.2 GHz band to not interfere with SES’s operations as well as other GSO systems, to which 
+SpaceX responded.
+83
+24. In light of the proposal that the Commission recently adopted to allow NGSO FSS operations 
+in this band on a secondary basis, subject to certain power limits,
+84
+ SpaceX’s request for waiver of the 
+Commission’s Ka-band Plan to operate in the 19.7-20.2 GHz frequency band is moot.  
+25. Waiver of Band-Splitting Procedure.  SpaceX seeks to operate in the United States 
+throughout the 10.7-12.7 GHz, 12.75-13.25, 13.85-14.5 GHz, 17.8-18.6 GHz, 18.8-19.3 GHz, 19.7-20.2 
+GHz, 27.5-29.1 GHz, and 29.5-30 GHz frequency bands.  In some of these frequency bands, specifically 
+in those included in the 10.7-12.7 GHz, 12.75-13.25 GHz, 13.75-14.5 GHz, 18.8-19.3 GHz and 28.6-29.1 
+GHz bands, the Commission has adopted rules and policies to allow shared use of frequencies among 
+NGSO FSS systems by avoidance of interference events.
+85
+  In other bands, section 25.157(e) of the 
+Commission’s rules provides for “available spectrum” to be “divided equally” among the applications 
+granted as the result of a processing round.
+86
+  This rule presumes that NGSO operators cannot use the 
+same frequencies without causing harmful interference to each other, and therefore must be assigned 
+discrete segments of the requested band.  SpaceX requests a waiver of section 25.157(e) to permit it to 
+share the 17.8-18.6 GHz, 19.7-20.2 GHz, 27.5-28.6 GHz, and 29.5-30 GHz bands with other NGSO FSS 
+operators through avoidance of interference events, rather than by assignment of only a portion of these 
+bands.
+26. Based on our technical review of the SpaceX Application and of other applications and 
+petitions that were submitted in the OneWeb processing round, we conclude that sharing will be possible 
+between the SpaceX system, the OneWeb system, and other proposed NGSO FSS systems in all of the 
+bands requested by SpaceX.  The earth stations that will communicate with the SpaceX constellation will 
+have directional antennas.
+87
+  This directionality, which permits avoidance of interference with other 
+NGSO FSS systems in the 10.7-12.7 GHz,
+88
+ 12.75-13.25, 13.85-14.5 GHz, 18.8-19.3 GHz, and 28.6-29.1 
+(Continued from previous page)  
+13443-44, para. 28 (2000) (2000 18 GHz Band Order) (removing secondary NGSO FSS allocation in the 19.7-20.2 
+GHz frequency band).
+80
+ 47 CFR §2.106.
+81
+ 2000 18 GHz Band Order, 15 FCC Rcd at 13443-44, para. 28.
+82
+ See SAT?LOA?20170726?00110, Waiver Requests at 6-8; Technical Attachment, Section A.7.1.2 and Annex 2. 
+83
+ SES/O3b Comments to Supplemental Application; SpaceX Consolidated Response (filed Dec. 5, 2017).
+84
+ NGSO FSS Order, 32 FCC Rcd at 7813, paras. 9-10.
+85
+ 47 CFR § 25.261; The Establishment of Policies and Service Rules for the Non-Geostationary Satellite Orbit, 
+Fixed Satellite Service in the Ka-band, Report and Order, 18 FCC Rcd 14708, 14714, para. 18 (2003); The 
+Establishment of Policies and Service Rules for the Non-Geostationary Satellite Orbit, Fixed Satellite Service in the 
+Ku-band, Report and Order, 17 FCC Rcd 7841, 7850, para. 27 (2002).
+86
+ 47 CFR § 25.157(e).
+87
+ Application, Technical Supplement to Schedule S.
+88
+ The MVDDS 5G Coalition expresses concerns regarding protection of current and potential future MVDDS 
+operations in the 12.2-12.7 GHz band.  See Letter from MVDDS 5G Coalition to Marlene H. Dortch, Secretary, 
+(continued….)
+Federal Communications Commission FCC 18-38
+12
+GHz bands, also permits avoidance of interference in the 17.8-18.6 GHz, 19.7-20.2 GHz, 27.5-28.6 GHz, 
+and 29.5-30 GHz bands.  Thus, because SpaceX’s particular system design enables sharing by avoiding 
+interference events in all requested bands, division of available spectrum would be unnecessarily 
+restrictive.
+27. Furthermore, we recently adopted changes to the Commission’s rules that will apply a 
+spectrum sharing mechanism to all NGSO FSS systems that have sharing capabilities (e.g., directional 
+earth station antennas), regardless of the frequency bands used.
+89
+  Thus, SpaceX’s request for waiver of 
+section 25.157(e) is moot.
+28. Waivers for EPFD Software Code. Section 25.146 requires NGSO FSS applicants in certain 
+bands to use software to demonstrate that their systems will comply with EPFD limits included in section 
+25.208.
+90
+  If software approved by the ITU is not available, applicants must provide the source code used.  
+SpaceX used a beta version of EPFD software in development with the ITU, Transfinite, a final version of 
+which was subsequently approved by the ITU.
+91
+  SpaceX requests waiver of the requirement to provide its 
+source code in light of the proprietary nature of the third-party software, and given that its version had not 
+been approved by the ITU at the time of use.  
+29. We find good cause for waiver of the source code requirement in sections 25.146(a)(1)(iii), 
+(2)(iii), based on SpaceX’s use of this software in development with the ITU, but condition the grant on 
+the requirement that SpaceX satisfactorily undergo the ITU review process of its EPFD demonstration 
+prior to initiation of service.  Review by the ITU of SpaceX’s compliance with ITU EPFD limits, using 
+methods now approved by the ITU, will provide sufficient additional assurances that SpaceX will comply 
+with the applicable EPFD limits beyond the other technical demonstrations SpaceX has already 
+provided.
+92
+  Thus, grant of this waiver will not undermine the purpose of the rule to reasonably ensure 
+compliance with the relevant EPFD limits.
+93
+30. Waiver of 47 CFR § 25.202(g)(1).  We grant SpaceX’s request for waiver of section 
+25.202(g)(1) to permit telemetry, tracking, and command (TT&C) operations in the 13.85-14.0 GHz 
+band, as conditioned.  Section 25.202(g)(1) requires that TT&C signals be transmitted within assigned 
+frequency bands, preferably at the band edges.  We find that grant of this waiver is warranted.  First, the 
+requested band is immediately adjacent to the 14.0-14.5 GHz band used by the SpaceX system for user 
+terminal uplink transmissions and, second, SpaceX anticipates that it will provide TT&C from only two 
+locations in the United States (on the East and West Coasts respectively).  In addition, since SpaceX’s 
+operations in the 13.85-14.0 GHz band must be coordinated with other spectrum users, this will further 
+reduce the likelihood of interference to other operations.  
+(Continued from previous page)  
+FCC, (dated March 6, 2018).  Such concerns are addressed in paragraphs 40(e) and 40(r) below, requiring SpaceX to 
+comply with established pfd limits in this band and subjecting the authorization to modification to conform it to any 
+future rules or policies adopted by the Commission in pending rulemaking proceedings.  See, e.g., Petition of 
+MVDDS 5G Coalition for Rulemaking, RM-11768 (filed Apr. 26, 2016).
+89
+ NGSO FSS Order, 32 FCC Rcd at 7826, para. 52 (applying the newly adopted section 25.161 to NGSO FSS 
+systems in any frequency band).
+90
+ 47 CFR §§ 25.146(a)(1)(iii), (2)(iii), 25.208.
+91
+ See SpaceX July 12, 2017 Letter.  Additionally, SpaceX has submitted updated public data files that would enable 
+interested parties with access to the Transfinite software to review the EPFD analysis for SpaceX’s system.  Id.
+92
+ Id. 
+93
+ Some commenters state that additional files with EIRP and PFD masks are necessary to independently assess the 
+proposed systems’ compliance with applicable EPFD limits.  SES Comments at 4; OneWeb Comments at 19-20.  As 
+stated above, SpaceX has submitted updated data files that will allow review of its EPFD analysis.  See supra para. 
+9.
+Federal Communications Commission FCC 18-38
+13
+31. Waiver of Milestone Requirement.  SpaceX requests waiver of section 25.164(b) of the 
+Commission’s rules, which requires NGSO system licensees to launch the space stations, place them into 
+the assigned orbits, and operate them in accordance with the station authorization within six years of grant 
+of the license.
+94
+  SpaceX asks that we apply the six-year milestone only to its initial deployment of 1,600 
+satellites.
+95
+  SpaceX states that completing its full constellation of over 4,400 satellites over a six-year 
+period would require a launch cadence of more than 60 satellites per month, beginning on the day the 
+Commission grants a license, which would be impractical, and that deployment of its full constellation is 
+not necessary to allow it to commence delivery of broadband service.  SpaceX argues that a limited 
+waiver of section 25.164(b) would not undermine the purpose of the milestone requirements, as it would 
+not result in, facilitate, or encourage spectrum warehousing.  Several commenters argue that a waiver of 
+this requirement would give SpaceX an unfair advantage as it would not require SpaceX to deploy its full 
+constellation within the six-year period without further obligation to deploy the rest of its system.
+96 
+  
+32. We agree with commenters that SpaceX has not provided sufficient grounds for a waiver of 
+the Commission’s final implementation milestone requirement.  We note that this issue was addressed in 
+the NGSO FSS rulemaking,
+97
+ and this grant is subject to those rules.  Under these new rules, SpaceX’s 
+deployment of 1600 satellites would not meet the new 6-year milestone requirement that now requires 50 
+percent of the total number of satellites in the constellation to be launched and operated no later than 6 
+years after grant of the authorization.  Given that, we deny SpaceX’s waiver request.  SpaceX can 
+resubmit this request in the future, when it will have more information about the progress of the 
+construction and launching of its satellites and will therefore be in a better position to assess the need and 
+justification for a waiver.
+33. Geographic Coverage Requirements.  SpaceX’s requests a partial waiver of sections 
+25.145(c) and 25.146(i) of the Commission’s rules.
+98
+  Sections 25.145(c) and 25.146(i) require NGSO 
+FSS systems using certain Ka- and Ku-band frequencies, respectively, to provide service coverage to (i) 
+all locations as far north as 70 degrees latitude and as far south at 55 degrees latitude for at least 75% of 
+every 24-hour period and (ii) on a continuous basis throughout the fifty states, Puerto Rico and the U.S. 
+Virgin Islands.
+ 
+99
+  SpaceX states that once fully deployed, the SpaceX system will satisfy these 
+requirements, as it will provide full time coverage to virtually the entire planet.
+100
+ The initial deployment, 
+however, will cover only as far north as 60 degrees latitude.  SpaceX argues that its system, when fully 
+deployed, will meet the requirements of these rules, and thus it should be granted a waiver of the 
+94
+ 47 CFR § 25.164(b).
+95
+ Application, Waiver Requests at 8-10.  SpaceX indicates that its initial deployment of 1,600 satellites within the 
+six-year period is comparable to the full deployment of many other providers and would allow it to commence 
+service to the public.  Id.
+96
+ OneWeb Comments at 6-7 (stating that permitting some licensees to treat these obligations as optional would 
+undermine the purpose of the rule, allow warehousing and speculation in spectrum allocated for satellite uses, 
+particularly because SpaceX does not propose any follow-up milestones, leaving it completely unaccountable for the 
+remaining two-thirds of its constellation yet to be deployed); Hughes Reply Comments at 3 (concurring with 
+OneWeb’s statement); Intelsat Reply Comments at 2-5 (concurring with OneWeb and stating that an appropriate 
+venue for considering revising the six-year milestone requirement is the Commission’s currently pending NGSO 
+rulemaking proceeding); SES Comments at 7-8 (agreeing that consideration of SpaceX’s milestone waiver should be 
+deferred pending the outcome of the NGSO rulemaking).  See also OneWeb Comments to Supplemental 
+Application at 1-3, 4-8 (filed Nov. 20, 2017); SES/O3b Comments to Supplemental Application (filed Nov. 20, 
+2017); SpaceX Consolidated Response (filed Dec. 5, 2017).
+97
+ NGSO FSS Order, 32 FCC Rcd at 7830-31, para. 67.
+98
+ 47 CFR §§ 25.145(c), 25.146(i).
+99
+ 47 CFR §§ 25.145(c), 25.146(i).
+100
+ Application, Waiver Requests at 13.
+Federal Communications Commission FCC 18-38
+14
+geographic coverage requirements for its initial deployment.  OneWeb argues that waiver of these 
+requirements is not in the public interest and should be denied.
+ 101
+  We find that waivers of sections 
+25.145(c) and 25.146(i) are unnecessary, since the Commission’s geographic service rules apply to the 
+“proposed system”, which in the case of SpaceX is the full system of 4,425 satellites that was proposed 
+and authorized.  Given that SpaceX’s proposed system as a whole will meet the geographic coverage 
+requirements, a waiver of the requirements is not needed for interim stages and we therefore dismiss 
+SpaceX’s waiver request.
+34. Section 25.208(e).  SpaceX states that it does not comply with the PFD limits established in 
+section 25.208(e) for very low elevation angles due to the flawed interference calculation methodology 
+applied in the rule.  It argues that the calculation methodology was not designed for (and did not 
+contemplate) larger constellations, and assumes downlink energy from all satellites in operation, not just 
+those that are visible from a particular location that could meaningfully be expected to contribute to 
+interference into a terrestrial FS system, and fails to discount interference from those satellites that are 
+switched off at a particular time or designed not to serve a location at such a low elevation angle.
+102
+  
+SpaceX further argues that when the calculation methodology is revised to reflect more reasonable 
+operating assumptions for larger systems, it becomes clear that the SpaceX System would not be expected 
+to cause harmful interference into terrestrial FS systems that share the band.
+103
+  OneWeb urges the 
+Commission to deny SpaceX’s request for a waiver of the Commission’s downlink PFD limits to ensure 
+that SpaceX’s operations do not cause harmful interference to terrestrial operations, criticizes SpaceX’s 
+understanding of the applicable PFD limits and states that NGSO FSS systems must comply with the 
+Commission’s downlink PFD requirements as described in footnote US334 of the U.S. Table of 
+Frequency Allocations and further reflected in Section 25.208(e) of its rules.
+104
+  Hughes agrees with 
+OneWeb and other commenters that a waiver of section 25.208(e) could have an impact on Hughes’ 
+current and future broadband satellite systems, and would contravene the obligations imposed by Article 
+21 of the ITU Radio Regulations.
+105
+  
+35. The NGSO FSS Order eliminated section 25.208(e), but adopted a new application 
+requirement for NGSO applicants that requires a certification that the NGSO FSS applicant will comply 
+with any applicable PFD levels in Article 21 of the ITU Radio Regulations.
+106
+  Although this provision is 
+not yet effective, the Commission recently affirmed the application of these PFD limits to NGSO FSS 
+systems in the 17.7-19.7 GHz bands.
+107
+  Therefore, rather than considering the request for a waiver of 
+25.208(e), it is more appropriate to address SpaceX compliance with the ITU PFD limits applicable in the 
+17.7-19.7 GHz frequency band.  In this respect, we agree with several of the points raised by SpaceX, in 
+particular that the ITU limits were derived for constellations up to 840 satellites and under worst case 
+assumptions.  The Commission contemplated that it would rely on its waiver policy to address, on a case-
+by-case basis, whether the ITU PFD limits should be modified for a given large NGSO constellation.
+108
+  
+However, we find that SpaceX has not provided sufficient information in its application to justify that its 
+101
+ OneWeb SpaceX Comments at 17-23 (stating that SpaceX is not committed to closing the “Digital Divide” and 
+offers no explanation for its inability to include the satellites required to satisfy the Domestic Coverage Requirement 
+in its Initial Deployment).  
+102
+ See Application, Technical Attachment at 27-33.
+103
+ Id.
+104
+ One Web SpaceX Comments at 24.
+105
+ Hughes Reply Comments at 2, 4.
+106
+ 47 CFR § 25.146(a)(1). This new certification requirement is subject to review under the provisions of the 
+Paperwork Reduction Act and is not yet effective.
+107
+ NGSO FSS Order, 32 FCC Rcd at 7819, para. 30.
+108
+ Id.
+Federal Communications Commission FCC 18-38
+15
+operation will adequately protect terrestrial operations in the band under consideration, and thus we deny 
+its request for waiver.  We recognize that such showing may have to rely on specific operational 
+considerations that may be not fully known at this point in time.  Given this, as a condition to this 
+authorization, SpaceX must file a modification application before starting operation with a technical 
+showing that demonstrates that its operation will protect a fixed-service station with the characteristics 
+described in Recommendation ITU-R SF.1483.
+109
+36. Schedule S Waiver.  As required by the Commission’s rules, SpaceX submitted a completed 
+Schedule S for its application, which contains certain technical information in a prescribed form.  This is 
+the first NGSO processing round in which the new version of the Schedule S has been used.  SpaceX has 
+found that it cannot accurately describe its system in certain respects due to limitations in Schedule S 
+itself.  SpaceX cites four limitations in Schedule S that affected how the Schedule S was completed:  (1) 
+the inability to enter for section 25.114(c)(4)(v) both the minimum and maximum saturation flux density 
+(SFD) values for each space station receive antenna; (2)  the inability to enter a negative value for the 
+maximum transmit EIRP density value for each beam; (3) the inability to enter a maximum PFD value for 
+any given angle of arrival for NGSO systems operating in the 12.2-12.7 GHz band that is less than -200.0 
+dBW/m2/BW; and (4) the lack of a means to reflect SpaceX’s system architecture for spare satellites.
+110
+  
+To the extent necessary, SpaceX requests that the Commission waive these aspects of Schedule S in light 
+of these limitations.  In view of the fact that SpaceX has implemented a workaround for each of these 
+limitations to allow entry of the required information, we find that a waiver of the requirement to 
+complete certain aspects or fields of Schedule S is warranted.
+37. Other.  In the 14-14.2 GHz band, NASA operates Tracking and Data Relay Satellite System 
+facilities at three locations:  Guam (latitude 13°36?55? N, longitude 144°51?22? E); White Sands, New 
+Mexico (latitude 32°20?59? N, longitude 106°36?31? W and latitude 32°32?40? N, longitude 106°36?48? 
+W); and Blossom Point, Maryland.  For transmissions in the 14-14.2 GHz band from NGSO FSS earth 
+stations located within 125 kilometers of these three sites, earth station operators should take account of 
+these NASA facilities.
+IV. CONCLUSION 
+38. We conclude that grant of the SpaceX Application and Supplemental Application, as 
+conditioned and set forth herein, will serve the public interest by enabling SpaceX to pursue its goal of 
+providing broadband service to consumers in the United States and around the world.
+V. ORDERING CLAUSES
+39. Accordingly, IT IS ORDERED, that the Application and Supplemental Application filed by 
+Space Exploration Holdings, LLC (SpaceX) and accepted for filing ARE GRANTED IN PART, 
+DISMISSED IN PART, AND DENIED IN PART, as set forth in this Memorandum Opinion, Order and 
+Authorization, pursuant to section 309(a) of the Communications Act of 1934, as amended, 47 U.S.C. § 
+309(a).
+40. IT IS FURTHER ORDERED that this authorization is subject to the following requirements 
+and conditions: 
+a. SpaceX must timely provide the Commission with the information required for Advance 
+Publication, Coordination, and Notification of the frequency assignment(s) for this constellation, 
+including due diligence information, pursuant to Articles 9 and 11 of the ITU Radio Regulations.  
+This authorization may be modified, without prior notice, consistent with the coordination of the 
+frequency assignment(s) with other Administrations.  See 47 CFR § 25.111(b).  SpaceX is 
+responsible for all cost-recovery fees associated with the ITU filings.  47 CFR § 25.111(d).
+109
+ See section 1 of Annex 1 of Recommendation ITU-R SF.1483.
+110
+ SpaceX Waiver Requests at 16-17.
+Federal Communications Commission FCC 18-38
+16
+b. Operations in the 10.7-11.7 GHz (space-to-Earth) frequency band are authorized up to the 
+applicable power flux-density limits in 47 CFR § 25.208(b), and up to the equivalent power flux-
+density requirements of Article 22 of the ITU Radio Regulations, as well as Resolution 76 (Rev. 
+WRC-15) of the ITU Radio Regulations.
+c. In the 10.7-11.7 GHz band, operations must be coordinated with the radio astronomy 
+observatories listed in 47 CFR § 2.106, n.US131, to achieve a mutually acceptable agreement 
+regarding the protection of the radio telescope facilities operating in the 10.6-10.7 GHz band  For 
+the purposes of coordination with these listed facilities or the National Radio Quiet Zone, 
+correspondence should be directed to the National Science Foundation Spectrum Management 
+Unit (Email:  esm@nsf.gov).
+d. Operations in the 11.7-12.2 GHz (space-to-Earth) frequency band are authorized up to the 
+power flux-density limits in Article 21 of the ITU Radio Regulations, and up to the equivalent 
+power flux-density requirements of Article 22 of the ITU Radio Regulations, as well as 
+Resolution 76 (Rev. WRC-15) of the ITU Radio Regulations.
+e. Operations in the 12.2-12.7 GHz (space-to-Earth) frequency band are authorized up to the 
+power flux-density limits in 47 CFR § 25.208(o) and Article 21 of the ITU Radio Regulations, 
+and up to the equivalent power flux-density requirements of Article 22 of the ITU Radio 
+Regulations, as well as Resolution 76 (Rev. WRC-15) of the ITU Radio Regulations.
+f. Operations in the 12.75-13.25 GHz (Earth-to-space) frequency band must be in 
+accordance with footnote 5.441 to the U.S. Table of Frequency Allocations, 47 CFR § 2.106, n. 
+5.441, which states that operations in this band are subject to application of the provisions of No. 
+9.12 for coordination with other non-geostationary-satellite systems in the fixed-satellite service.  
+Non-geostationary-satellite systems in the fixed-satellite service shall not claim protection from 
+geostationary-satellite networks in the fixed-satellite service operating in accordance with the 
+Radio Regulations.  Non-geostationary-satellite systems in the fixed-satellite service in the 12.75-
+13.25 GHz (Earth-to-space) frequency band shall be operated in such a way that any unacceptable 
+interference that may occur during their operation shall be rapidly eliminated.
+g. Operations of non-geostationary-satellite systems in the 12.75-13.25 GHz (Earth-to-
+space) frequency band are restricted to individually licensed earth stations in accordance with 
+footnote NG57 to the U.S. Table of Frequency Allocations, 47 CFR § 2.106, NG57.  In the 13.85-
+14.5 GHz (Earth-to-space) frequency band reception is permitted for levels up to the equivalent 
+power flux-density requirements of Article 22 of the ITU Radio Regulations.
+h. In the 14.47-14.5 GHz band, operations are subject to footnote US342 to the U.S. Table 
+of Frequency Allocations, 47 CFR § 2.106, n.US342, and all practicable steps must be taken to 
+protect the radio astronomy service from harmful interference.
+i. Space-to-Earth operations in the 17.8-18.6 GHz, 18.8-19.3 GHz, and 19.7-20.2 GHz 
+frequency bands must complete coordination with U.S. Federal systems, in accordance with 
+footnote US334 to the United States Table of Frequency Allocations, 47 CFR § 2.106, prior to 
+being used.  The use of space-to-Earth operations in the 17.8-18.6 GHz, 18.8-19.3 GHz, and 19.7-
+20.2 GHz bands must be in accordance with any signed coordination agreement between SpaceX 
+and U.S. Federal operators.  Two weeks prior to the start of any operations in the 17.8-18.6 GHz, 
+18.8-19.3 GHz, and 19.7-20.2 GHz bands, SpaceX must provide contact information for a 24/7 
+point of contact for the resolution of any harmful interference to Jimmy Nguyen, Email: 
+Jimmy.Nguyen@us.af.mil.
+j. Operations in the 18.8-19.3 GHz (space-to-Earth) frequency band are authorized up to the 
+power flux-density limits in Article 21 of the ITU Radio Regulations.
+Federal Communications Commission FCC 18-38
+17
+k. In the 27.5-28.6 GHz and 29.5-30 GHz (Earth-to-space) frequency bands reception is 
+permitted at levels up to the applicable equivalent power flux-density requirements of Article 22 
+of the ITU Radio Regulations.
+l. Operations in the 27.5-28.35 GHz (Earth-to-space) frequency band are secondary with 
+respect to Upper Microwave Flexible Use Service (UMFUS) operations, except for FSS 
+operations associated with earth stations authorized pursuant to 47 CFR § 25.136, and will 
+comply with any determinations set forth in the Spectrum Frontiers proceeding (GN Docket 14-
+177).
+111
+m. Operations in the 28.35-28.6 GHz and 29.5-30 GHz (Earth-to-space) frequency bands are 
+on a secondary basis with respect to GSO FSS operations.
+n. Prior to initiation of service, SpaceX must receive a favorable or “qualified favorable” 
+finding in accordance with Resolution 85 (WRC-03) with respect to its compliance with 
+applicable equivalent power flux-density limits in Article 22 of the ITU Radio Regulations.
+o. SpaceX must cooperate with other NGSO FSS operators in order to ensure that all 
+authorized operations jointly comport with the applicable limits for aggregate equivalent power 
+flux-density in the space-to-Earth direction (EPFDdown) contained in Article 22 of the ITU 
+Radio Regulations, as well as Resolution 76 (WRC-03) of the ITU Radio Regulations.
+p. Upon finalization of its space station design and prior to initiation of service, SpaceX 
+must seek and obtain the Commission’s approval of a modification containing an updated 
+description of the orbital debris mitigation plans for its system, as discussed in paragraph 15 
+above.
+q. Upon finalization of its space station design and prior to initiation of service, SpaceX 
+must seek and obtain the Commission’s approval of a modification containing a technical 
+showing that demonstrates that its operation will protect a fixed-service station with the 
+characteristics described in Recommendation ITU-R SF.1483, as discussed in paragraph 35 
+above.
+r. This authorization is subject to modification to bring it into conformance with any rules 
+or policies adopted by the Commission in the future.  Accordingly, any investments made toward 
+operations in the bands authorized in this order by SpaceX in the United States assume the risk 
+that operations may be subject to additional conditions or requirements as a result of any future 
+Commission actions.
+41. IT IS FURTHER ORDERED that SpaceX will be subject to the rules regarding the sharing of 
+ephemeris data in section 25.146(e) of the Commission’s rules, 47 CFR § 25.146(e), once these rules 
+become effective.
+42. IT IS FURTHER ORDERED that this authorization is also subject to the following 
+requirements:
+a. SpaceX must post a surety bond in satisfaction of 47 CFR §§ 25.165(a)(1) & (b) no later 
+than April 30, 2018, and thereafter maintain on file a surety bond requiring payment in the event 
+of a default in an amount, at minimum, determined according to the formula set forth in 47 CFR § 
+25.165(a)(1); and
+b. SpaceX must launch 50 percent of the maximum number of proposed space stations, 
+place them in the assigned orbits, and operate them in accordance with the station authorization 
+no later than March 29, 2024, and SpaceX must launch the remaining space stations necessary to 
+complete its authorized service constellation, place them in their assigned orbits, and operate each 
+111
+ See generally Spectrum Frontiers R&O and FNPRM.
+Federal Communications Commission FCC 18-38
+18
+of them in accordance with the authorization no later than March 29, 2027.  47 CFR § 
+25.164(b).
+112
+43. Failure to post and maintain a surety bond will render this grant null and void automatically, 
+without further Commission action.  Failure to meet the milestone requirements of 47 CFR § 25.164(b) 
+may result in SpaceX’s authorization being reduced to the number of satellites in use on the milestone 
+date.  Failure to comply with the milestone requirement of 47 CFR § 25.164(b) will also result in 
+forfeiture of SpaceX’s surety bond.  By April 15, 2024, SpaceX must either demonstrate compliance with 
+its milestone requirement or notify the Commission in writing that the requirement was not met.  47 CFR 
+§ 25.164(f).
+44. IT IS FURTHER ORDERED that SpaceX’s request for waiver of the United States Table of 
+Frequency Allocations, 47 CFR § 2.106 & NG164, IS DISMISSED as MOOT.
+45. IT IS FURTHER ORDERED that operations must comply with spectrum sharing 
+procedures among NGSO FSS space stations specified in 47 CFR § 25.261 with respect to any NGSO 
+system licensed or granted U.S. market access pursuant to the processing rounds initiated in Public 
+Notice, DA 16-804 and Public Notice, DA 17-524.  Spectrum sharing between SpaceX’s operations and 
+operations of NGSO systems granted U.S. market access, where such operations do not include 
+communications to or from the U.S. territory, are governed only by the ITU Radio Regulations and are 
+not subject to Section 25.261.
+46. IT IS FURTHER ORDERED that SpaceX’s request for waiver of the band segmentation 
+provision in 47 CFR § 25.157(e) IS DISMISSED as MOOT.
+47. IT IS FURTHER ORDERED that SpaceX’s request for waiver of the source code 
+requirements in 47 CFR § 25.146(a)(1)(iii), (2)(iii), IS GRANTED.
+48. IT IS FURTHER ORDERED that the request for waiver of 47 CFR § 25.202(a)(1), n.6, 
+to permit SpaceX to operate its user terminal earth stations in the 10.7-11.7 GHz band on a non-
+conforming, non-interference, unprotected basis, IS DISMISSED without prejudice to re-filing in 
+connection with such an application.
+49. IT IS FURTHER ORDERED that the request for waiver of 47 CFR § 25.202(g)(1) for 
+telemetry, tracking, and command (TT&C) operations in the 13.85-14.0 GHz band is GRANTED.  As a 
+condition of the grant of this waiver, SpaceX shall coordinate TT&C operations of its system in the 
+13.75-14.00 GHz band with all potentially affected operators of other communication systems.  
+Furthermore, any earth station operating with SpaceX’s system in the 13.75-14.0 GHz band must comport 
+with the requirements in 47 CFR § 2.106, US356.  In the 13.75-14.0 GHz frequency band (Earth-to-
+space), receiving space stations in the fixed-satellite service must not claim protection from radiolocation 
+transmitting stations operating in accordance with the United States Table of Frequency Allocations.
+50. IT IS FURTHER ORDERED that SpaceX’s request for waiver of the Commission’s Ka-
+band Plan with regard to the 19.7-20.2 GHz (space-to-Earth) frequency band IS DISMISSED as MOOT.  
+Communications in the 19.7-20.2 GHz frequency band with NGSO FSS systems are on a secondary basis 
+with regard to GSO FSS operations.  In addition, such communications must comport with the applicable 
+EPFD limits and requirements in Article 22 of the ITU Radio Regulations.
+51. IT IS FURTHER ORDERED that the request for waiver of the downlink PFD limits in 
+47 CFR § 25.208(e) is DISMISSED AS MOOT for the reasons set forth herein.
+52. IT IS FURTHER ORDERED that the request for waiver of the downlink PFD limits 
+provisions in Article 21 of the ITU Radio Regulations is DENIED for the reasons set forth herein.
+112
+ We note that the NGSO FSS Order modified section 25.164(b) to offer additional flexibility and requires launch 
+and operation of 50 percent of an authorized system within six years of grant and the remaining satellites within nine 
+years of grant. 
+Federal Communications Commission FCC 18-38
+19
+53. IT IS FURTHER ORDERED that the request for partial waiver of the final 
+implementation milestone in 47 CFR § 25.164(b) is DENIED for the reasons set forth herein.
+54. IT IS FURTHER ORDERED that the request for waiver of geographic service 
+requirements in 47 CFR §§ 25.145(c) and 25.146(i) is DISMISSED AS MOOT for the reasons set forth 
+herein. 
+55. IT IS FURTHER ORDERED that the request for waiver of the requirement to complete 
+certain aspects or fields of Schedule S is GRANTED for the reasons set forth herein.
+56. IT IS FURTHER ORDERED that the Petitions to Deny of Telesat Canada and ViaSat, 
+Inc. ARE GRANTED to the extent that certain conditions requested by Telesat Canada and ViaSat are 
+imposed, as indicated herein, and are otherwise DENIED.
+FEDERAL COMMUNICATIONS COMMISSION
+Marlene H. Dortch
+Secretary
+Federal Communications Commission FCC 18-38
+20
+STATEMENT OF
+COMMISSIONER JESSICA ROSENWORCEL
+Re: Space Exploration Holdings, LLC, Application for Approval for Orbital Deployment and 
+Operating Authority for the SpaceX NGSO Satellite System, IBFS File No. SAT-LOA-
+20161115-0018; Call Sign S2983; Application for Approval for Orbital Deployment and 
+Operating Authority for the SpaceX NGSO Satellite System Supplement, SAT-LOA-
+20170726-00110, Call Sign S3018
+A next-generation space race is unfolding.  We are seeing new commercial models, 
+players, and technologies coming together to pioneer a wide range of cool satellite services.  This 
+is undeniably exciting.
+However, this rush to develop new space opportunities requires new rules.  Despite the 
+revolutionary activity in our atmosphere, the regulatory frameworks we rely on to shape these 
+efforts are dated.  They were designed for a time when going to space was astronomically 
+expensive and limited to the prowess of our political superpowers.  No one imagined commercial 
+tourism taking hold, no one believed crowd-funded satellites were possible, and no one could 
+have conceived of the sheer popularity of space entrepreneurship.
+Across the board, we need to prepare for the proliferation of satellites in our higher 
+altitudes.  In short, we have work to do.  There are two places we can start.    
+First, the FCC has to tackle the growing challenge posed by orbital debris.  Today, the 
+risk of debris-generating collusions is reasonably low.  But they’ve already happened—and as 
+more actors participate in the space industry and as more satellites of smaller size that are harder 
+to track are launched, the frequency of these accidents is bound to increase.  Unchecked, growing 
+debris in orbit could make some regions of space unusable for decades to come.  That is why we 
+need to develop a comprehensive policy to mitigate collision risks and ensure space 
+sustainability.  
+Second, the FCC must coordinate more closely with other federal actors to figure out 
+what our national policies are for this jumble of new space activity.  Right now, the National 
+Space Council is considering policy changes to help promote the growth of the commercial space 
+industry.  Their efforts encompass everything from streamlining licenses to reforming export 
+controls to protecting airwaves facilitating space activities.  Its membership spans the civil, 
+military, and commercial sectors, including the Secretary of State, Secretary of Defense, 
+Secretary of Transportation, Secretary of Homeland Security, and Director of National 
+Intelligence.  Representatives from the Office of Management and Budget, National Aeronautics 
+and Space Administration, and the Joint Chiefs of Staff, among others, also serve on this council.  
+It’s an impressive list.  But the FCC should have a seat at this table.  It’s a glaring omission that 
+the agency does not because through our oversight of the airwaves and licensing of satellite 
+services we have an important role ensuring the viability of space for future generations.  Cutting 
+the FCC out of this discussion is an unseemly mistake—and one that deserves a fix.  
