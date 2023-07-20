@@ -1,0 +1,793 @@
+Federal Communications Commission DA 16-875
+Before the
+Federal Communications Commission
+Washington, D.C. 20554
+In the Matter of
+Iridium Constellation LLC
+Application for Modification of License to 
+Authorize a Second-Generation NGSO MSS 
+Constellation
+)
+)
+)
+)
+)
+)
+)
+File Nos.: SAT-MOD-20131227-00148
+SAT-AMD-20151022-00074
+Call Sign: S2110
+ORDER AND AUTHORIZATION
+Adopted:  August 1, 2016 Released:  August 1, 2016
+By the Chief, Satellite Division, International Bureau; and Acting Chief, Policy and Rules Division, Office 
+of Engineering and Technology:
+I. INTRODUCTION
+1. By this Order, we authorize Iridium Constellation LLC (Iridium) to construct, deploy, 
+and operate non-geostationary-satellite orbit (NGSO) space stations to continue and enhance its provision 
+of mobile-satellite service (MSS) and aeronautical mobile-satellite (route) service (AMS(R)S).  This 
+authorization will allow Iridium to continue to provide mobile voice and data services to end users on a 
+network with improved voice quality and enhanced data transmission speeds.
+II. BACKGROUND
+2. Current constellation.  Iridium operates an NGSO satellite constellation capable of 
+providing MSS anywhere in the world.  Originally licensed in 1995,1 the Iridium system is authorized for 
+66 service satellites, plus any co-located satellites,2 and up to 14 in-orbit spares.3 The constellation 
+operates in a near-circular Earth orbit at an altitude of 778 kilometers,4 and is arranged in six orbital 
+  
+1 Application of Motorola Satellite Communications, Inc. for Authority to Construct, Launch, and Operate a Low 
+Earth Orbit Satellite System in the 1616–1626.5 MHz Band, Order and Authorization, 10 FCC Rcd 2268 (IB 1995) 
+(First Generation License), corrected, 10 FCC Rcd 3925 (IB 1995), 
+https://apps.fcc.gov/edocs_public/attachmatch/DOC-54363A1.pdf, affirmed in part and modified, Applications of 
+Motorola Satellite Communications, Inc., et al., for Authority to Construct, Launch, and Operate, Low Earth Orbit 
+Satellite Systems to Provide Mobile Satellite Services in the 1610-1626.5 MHz/2483.5-2500 MHz Bands, 
+Memorandum Opinion and Order, 11 FCC Rcd 18502 (1996), https://apps.fcc.gov/edocs_public/attachmatch/FCC-
+96-279A1.pdf (Reconsideration Order).
+2 Iridium Constellation LLC, Stamp Grant, File No. SAT-MOD-20120813-00128 (granted Jan. 30, 2014), 
+http://licensing.fcc.gov/myibfs/download.do?attachment_key=1034020.  Iridium may co-locate additional satellites 
+with those in its 66-satellite mission constellation that become partially impaired.  Two co-located satellites operate 
+as the functional equivalent of one satellite.
+3 Application of Space System License, Inc. for Modification of License for Authority to Launch and Operate a Low 
+Earth Orbit Satellite System in the 1616-1626.5 MHz Band, Order and Authorization, 14 FCC Rcd 9829 (IB, Sat. 
+Div. 1999), http://www.fcc.gov/Bureaus/International/Orders/1999/da991254.txt.
+4 Iridium Constellation LLC, Application for Minor Modification, Appendix A at A-2, File No. SAT-MOD-
+20080701-00140 (filed July 1, 2008), http://licensing.fcc.gov/myibfs/download.do?attachment_key=-150576.  The 
+nominal altitude is 780 km.  See First Generation License, 10 FCC Rcd at 2268, para. 2.
+Federal Communications Commission DA 16-875
+2
+planes at an inclination of 86.4 degrees.5 Iridium satellites use an array of spot beams to communicate 
+with subscriber units.  They connect to “gateway” earth stations through feeder links.6 Within the 
+constellation, adjacent satellites communicate with each other via inter-satellite links.7
+3. The Iridium constellation is assigned frequencies in the L-band, the Ka-band, and the 
+23.18-23.38 GHz band.8 Service links are authorized in the 1617.775-1626.5 MHz band for transmission 
+in both directions between mobile earth stations and Iridium satellites.9 Communication between 
+satellites is authorized in the 23.18-23.38 GHz band.10 Feeder links and telemetry, tracking, and 
+command (TT&C) operations are authorized in the 19.4-19.6 GHz (space-to-Earth) and 29.1-29.3 GHz 
+(Earth-to-space) bands.11 Iridium shares the 29.25-29.3 GHz feeder uplink band on a co-primary basis 
+with geostationary-satellite orbit (GSO) space stations in the fixed-satellite service (FSS).12
+4. As a result of a license modification granted in 2013, Iridium is also authorized to 
+provide AMS(R)S in the 1618.725-1626.5 MHz band to remote, oceanic and polar regions.13 AMS(R)S 
+is an aeronautical mobile-satellite service reserved for communications relating to safety and regularity of 
+flights, primarily along national or international civil air routes.14 On May 22, 2014, we granted an 
+  
+5 First Generation License, 10 FCC Rcd at 2268, para. 2.
+6 Id. In the NGSO MSS, fixed feeder-link earth stations are needed to complete the transmission paths with mobile 
+user terminals, process the information being transmitted, and interconnect the NGSO MSS system with terrestrial 
+communications networks and with other user transceivers.  Feeder-link earth stations that distribute information to, 
+and receive information from, terrestrial telecommunication networks, e.g., the public switched telephone network 
+and the Internet, are known as gateways.  Iridium commercial traffic is routed through a central gateway located in 
+Tempe, Arizona (Call Sign E960131).  Comments of Iridium Constellation LLC, File No. SES-MFS-20111104-
+01314, at 2 (filed Dec. 16, 2011), http://licensing.fcc.gov/myibfs/download.do?attachment_key=930008.
+7 First Generation License, 10 FCC Rcd at 2268, para. 2.
+8 For purposes of this Order and Authorization, “L-band” means the 1610-1626.5 MHz frequency band, and “Ka-
+band” means the 17.7-20.2 GHz and 27.5-30.0 GHz frequency bands.
+9 Iridium Constellation LLC et al., Modification of Authority to Operate a Mobile Satellite System in the 1.6 GHz 
+Frequency Band, Order of Modifications, 23 FCC Rcd 15207, 15222, para. 46 (2008), 
+https://apps.fcc.gov/edocs_public/attachmatch/FCC-08-248A1.pdf.  Iridium provides MSS on an exclusive basis in 
+the 1618.725-1626.5 MHz band, and shares the 1617.775-1618.725 MHz band with the Globalstar NGSO MSS 
+system.  Id. MSS uplink operations in the 1617.775-1626.5 MHz band are allocated on a primary basis worldwide.  
+MSS downlinks in that band are secondary to other services.  Id.; see also 47 C.F.R. § 2.106 (Table of Frequency 
+Allocations).
+10 Reconsideration Order, 11 FCC Rcd at 18516, para. 36.
+11 See Application of Motorola Satellite Communications, Inc. for Modification of License, Order and Authorization, 
+11 FCC Rcd 13952, 13954-55, para. 7 (IB 1996), https://apps.fcc.gov/edocs_public/attachmatch/DA-96-
+1789A1.pdf.
+12 See Rulemaking to Amend Parts 1, 2, 21, and 25 to Redesignate the 27.5-29.5 GHz Frequency Band, to Reallocate 
+the 29.5-30.0 GHz Frequency Band, to Establish Rules and Policies for Local Multipoint Distribution Service and 
+for Fixed Satellite Services, First Report and Order, 11 FCC Rcd 19005, 19024, para. 42, 19034-35, paras. 72-74 
+(1996), http://apps.fcc.gov/ecfs/comment/view?id=166582.  This band is available for blanket licensing of GSO FSS 
+earth stations.  47 C.F.R. § 25.115(e); Redesignation of the 17.7-19.7 GHz Frequency Band, Blanket Licensing of 
+Satellite Earth Stations in the 17.7-20.2 GHz and 27.5-30.0 GHz Frequency Bands, and the Allocation of Additional 
+Spectrum in the 17.3-17.8 GHz and 24.75-25.25 GHz Frequency Bands for Broadcast Satellite-Service Use, Second 
+Order on Reconsideration, 17 FCC Rcd 24248, 24259-60, para. 24 (2002), 
+https://apps.fcc.gov/edocs_public/attachmatch/FCC-02-317A1.pdf.
+13 Iridium Constellation LLC, For Authority to Modify License For A Low Earth Orbit Mobile Satellite System, 
+Memorandum Opinion and Order, 28 FCC Rcd 964 (IB 2013), https://apps.fcc.gov/edocs_public/attachmatch/DA-
+13-141A1_Rcd.pdf.
+14 47 C.F.R. § 2.1.
+Federal Communications Commission DA 16-875
+3
+extension of the license term for Iridium’s first-generation satellites, to January 31, 2018, based on 
+Iridium’s description of the planned deployment of its second-generation satellites.15
+5. Modification application.  On December 27, 2013, Iridium filed an application to modify 
+its NGSO MSS license to operate a second-generation satellite system.16 Iridium proposes to replace its 
+existing constellation with a new constellation using the same orbital parameters, providing the same 
+global coverage, and transmitting on the same frequency bands.17 Like Iridium’s first-generation 
+satellites, the new satellites will be capable of operating in the entire 1616-1626.5 MHz band; however, 
+Iridium here requests no change from the operating frequencies specified for its first-generation 
+satellites.18  To provide continuous service during the transition, Iridium proposes to replace its existing 
+satellites one-for-one with new satellites as they are launched.19 Iridium expects to have entirely replaced 
+its first-generation constellation shortly after completing a series of launches.20 Iridium also requests 
+authority for up to 15 second-generation in-orbit spare satellites,21 and to reserve the option to retain some 
+first-generation satellites as potential spares.22
+6. Iridium states that its second-generation satellites will also be equipped to track ships and 
+aircraft.  Aircraft tracking will be accomplished through an Automatic Dependent Surveillance–Broadcast 
+(ADS-B) receiver as part of a joint venture with Aireon LLC.23 The receiver will receive Extended 
+Squitter ADS-B messages from aircraft on the 1090 MHz center frequency, and information regarding 
+those messages will be relayed through the Iridium inter-satellite links and feeder downlinks to earth 
+stations.24 The ADS-B information will then be routed to air traffic control authorities, thereby providing 
+a global, satellite-based aviation monitoring service.
+7. Iridium has also contracted with Harris Corporation to include a receiver for Automatic 
+Identification System (AIS) messages on up to 65 of its second-generation satellites.  AIS is a shipboard 
+broadcast system that transmits a marine vessel’s identification and position to aid in navigation and 
+  
+15 Iridium Constellation LLC, Stamp Grant, File No. SAT-MOD-20101001-00207 (granted in part May 22, 2014), 
+http://licensing.fcc.gov/myibfs/download.do?attachment_key=1048067.
+16 Iridium Constellation LLC, Application for Modification of NGSO Authorization to Launch and Operate 
+Replacement Satellites, File No. SAT-MOD-20131227-00148 (filed Dec. 27, 2013) (Second Generation 
+Application).  The modification application was amended on October 22, 2015, in File No. SAT-AMD-20151022-
+00074, as noted below.  Iridium’s amended application can be accessed online through the International Bureau 
+Filing System, http://licensing.fcc.gov/myibfs.
+17 Second Generation Application, Engineering Statement at 5-6, Narrative at 3.  As described below, Iridium 
+requests authority for additional receive frequencies not authorized for its first-generation satellites.
+18 Second Generation Application, Narrative at 3.  Iridium has pending before the Commission a petition for 
+rulemaking regarding expansion of the operating frequency range of its MSS links to 1616-1626.5 MHz.  Petition 
+for Rulemaking of Iridium Constellation LLC, RM-11697, http://apps.fcc.gov/ecfs/proceeding/view?name=RM-
+11697.  Iridium’s requests in that proceeding will be addressed separately.
+19 Second Generation Application, Engineering Statement at 8-9.
+20 Id., Engineering Statement at 9 (providing a schedule, as of the date the application was filed, with a final launch 
+in 2017).
+21 Id., Engineering Statement at 2.
+22 Id., Engineering Statement at 9.  This Order is based on a planned one-for-one substitution of first-generation 
+satellites by second-generation satellites, but does not preclude Iridium seeking authorization at a later date to retain 
+some first-generation satellites as spares.
+23 Id., Exhibit D.
+24 Id. at 2; Opposition of Iridium Constellation LLC at 9-10 (filed Apr. 15, 2014), 
+http://licensing.fcc.gov/myibfs/download.do?attachment_key=1043165 (Iridium Opposition).
+Federal Communications Commission DA 16-875
+4
+maritime safety.  The satellite AIS receiver will receive AIS messages within the 156.0125-162.0375 
+MHz band and, as with the 1090 MHz Extended Squitter ADS-B receiver, information regarding those 
+messages will be relayed through the Iridium inter-satellite links and feeder downlinks.  On October 22, 
+2015, Iridium filed an amendment to its modification application with additional information regarding 
+the AIS receiver.25
+8. Iridium requests waiver of several Commission rules in its Second Generation 
+Application.26 First, Iridium seeks waiver of section 25.210(i)(1), which requires that space station 
+antennas in the FSS be designed to provide a cross-polarization isolation of 30 dB within their primary 
+coverage area.27 Second, Iridium requests waiver of section 25.202(g) to allow TT&C operations 
+throughout its assigned Ka-band feeder-link frequencies, rather than solely at the band edges.28 Third, 
+Iridium seeks waivers of sections 25.114(d)(14)(ii) and 25.283(c) to maintain residual energy sources on 
+board its satellites at their at end-of-life.29 Finally, Iridium states that the design of its second-generation 
+satellites, which use on-board processors and regenerative payloads, renders inapplicable certain technical 
+information requested in section 25.114(c)(4)(vi) and (vii).30 Iridium requests waiver of those rules to the 
+extent necessary.
+9. Comments.  On February 28, 2014, we placed Iridium’s Second Generation Application 
+on public notice.31 In response, three GSO FSS space station operators commented on the application.  
+Inmarsat Inc. (Inmarsat) filed a petition to dismiss, deny, or hold in abeyance Iridium’s application.32  
+SES Americom, Inc. (SES) filed a comment.33 ViaSat, Inc. (ViaSat) responded to Inmarsat’s and SES’s 
+initial pleadings.34
+10. Inmarsat, SES, and ViaSat ask that we require Iridium to demonstrate that its second-
+  
+25 Iridium Constellation LLC, Amendment to Application for Modification of NGSO Authorization to Launch and 
+Operate Replacement Satellites, File No. SAT-AMD-20151022-00074 (filed Oct. 22, 2015) (Second Generation 
+Application Amendment).
+26 Iridium requested waiver of additional rules in its Second Generation Application Amendment.  These requests 
+are unopposed and discussed below.
+27 Second Generation Application, Narrative at 12-13; 47 C.F.R. § 25.210(i)(1).  As noted below, this requirement is 
+applicable to Iridium’s feeder-link operations, which are performed using frequencies allocated to the FSS.
+28 Second Generation Application, Narrative at 15-16.  Section 25.202(g) requires TT&C functions to be conducted 
+“at either or both edges of the allocated band(s).”  47 C.F.R. § 25.202(g).
+29 Second Generation Application, Narrative at 13-15.  Section 25.114(d)(14)(ii) requires a demonstration that debris 
+generation will not result from the conversion of energy sources on board the spacecraft into energy that fragments 
+the spacecraft.  Energy sources include chemical, pressure, and kinetic energy remaining at end-of-life. 47 C.F.R. § 
+25.114(d)(14)(ii).  Section 25.283(c) requires that all stored energy sources be discharged at the satellite end-of-life.  
+47 C.F.R. § 25.283(c).
+30 Second Generation Application, Narrative at 11-12; 47 C.F.R. § 25.114(c)(4)(vi), (vii).
+31 Policy Branch Information, Satellite Space Applications Accepted for Filing, Public Notice, Report No. SAT-
+00999 (rel. Feb. 28, 2014), https://apps.fcc.gov/edocs_public/attachmatch/DOC-325833A1.pdf.  The amendment 
+was also placed on public notice.  Policy Branch Information, Satellite Space Applications Accepted for Filing, 
+Public Notice, Report No. SAT-01116 (rel. Nov. 6, 2015), https://apps.fcc.gov/edocs_public/attachmatch/DOC-
+336234A1.pdf.  No comments were filed on the amendment.
+32 Petition to Dismiss, Deny or Hold in Abeyance of Inmarsat Inc. (filed Mar. 31, 2014), 
+http://licensing.fcc.gov/myibfs/download.do?attachment_key=1041101 (Inmarsat Petition).
+33 Comments of SES Americom, Inc. (filed Mar. 31, 2014), 
+http://licensing.fcc.gov/myibfs/download.do?attachment_key=1041116 (SES Comments).
+34 Response of ViaSat, Inc. (filed Apr. 15, 2014), 
+http://licensing.fcc.gov/myibfs/download.do?attachment_key=1043235 (ViaSat Response).
+Federal Communications Commission DA 16-875
+5
+generation system can share the 29.25-29.3 GHz band with GSO FSS operations.35 SES argues this 
+demonstration is required by section 25.258(c).36 Inmarsat and ViaSat also argue that Iridium has not 
+justified its requested waiver of the 30 dB cross-polarization isolation requirement in section 
+25.210(i)(1).37 SES suggests that any waiver of sections 25.210(i)(1) or 25.202(g) should be granted only 
+with certain conditions.38 Finally, both Inmarsat and ViaSat ask that Iridium provide additional 
+information regarding its 1090 MHz Extended Squitter ADS-B receiver.39
+11. Iridium filed an opposition to the initial pleadings of Inmarsat and SES and replied to 
+ViaSat.40 Inmarsat and SES replied to Iridium in turn.41 In its reply, Inmarsat specifies that Iridium 
+should not be granted heightened interference protection for its Ka-band feeder links if they are used to 
+support the 1090 MHz Extended Squitter ADS-B receiver.42 In addition, the Committee on Radio 
+Astronomy Frequencies (CRAF) and the National Radio Astronomy Observatory (NRAO) filed letters 
+with the Commission regarding potential interference by Iridium out-of-band emissions from its second-
+generation constellation into radio astronomy service (RAS) observations in the 1610.6-1613.8 MHz 
+band.43 Finally, Ligado Networks LLC (Ligado) filed a request to hold in abeyance the Iridium 
+application.44 In separate proceedings, Iridium has contended that Ligado’s proposed operation of an 
+ancillary terrestrial component to its mobile-satellite service network will harm Iridium’s second-
+generation operations.  Ligado asks that we delay action on Iridium’s application pending further 
+exploration of the compatibility of the two systems.
+12. Part 25 Second Report and Order.  After the closing of the comment periods in this 
+proceeding, the Commission adopted an Order comprehensively revising part 25 of its rules.45 Among 
+the revisions, the Commission eliminated or relaxed several requirements from which Iridium seeks 
+  
+35 Inmarsat Petition at 3-4, 6; SES Comments at 2; ViaSat Response at 1-2.
+36 SES Comments at 2.  Section 25.258 addresses sharing between NGSO MSS feeder-link stations and GSO FSS 
+services in the 29.25-29.5 GHz band.  47 C.F.R. § 25.258.
+37 Inmarsat Petition at 4-5; ViaSat Response at 2-3.
+38 SES Comments at 2-4.
+39 Inmarsat Petition at 5-6; ViaSat Response at 3-5.
+40 Iridium Opposition; Reply of Iridium Constellation LLC (filed Apr. 25, 2014), 
+http://licensing.fcc.gov/myibfs/download.do?attachment_key=1044378 (Iridium Reply).  Iridium argues that the 
+ViaSat Response is, in fact, a late-filed opposition to its Second Generation Application.  Iridium Reply at 1 n.2; see 
+also 47 C.F.R. § 25.154(a).  Assuming arguendo this were the case, we would still be able to consider the ViaSat 
+Response as an informal objection under section 25.154(b), and would do so here.  See 47 C.F.R. § 25.154(b); News 
+Corp. and The DIRECTV Group, Inc., Transferors, and Liberty Media Corp., Transferee, For Authority to Transfer 
+Control, Memorandum Opinion and Order, 23 FCC Rcd 3265, 3329 n.447 (2008), 
+https://apps.fcc.gov/edocs_public/attachmatch/FCC-08-66A1.pdf.
+41 Reply to Opposition to Petition to Dismiss, Deny or Hold in Abeyance of Inmarsat Inc. (filed Apr. 25, 2014), 
+http://licensing.fcc.gov/myibfs/download.do?attachment_key=1044372 (Inmarsat Reply); Reply of SES Americom, 
+Inc. (filed Apr. 25, 2014), http://licensing.fcc.gov/myibfs/download.do?attachment_key=1044364 (SES Reply).
+42 Inmarsat Reply at 6-7.
+43 Letter from Dr. Hans van der Marel, CRAF Chair, to Mindel De La Torre, Chief, International Bureau (filed July 
+11, 2014), http://licensing.fcc.gov/myibfs/download.do?attachment_key=1053906; Letter from Harvey S. Liszt, 
+Scientist and Spectrum Manager, National Radio Astronomy Observatory, to the Federal Communications 
+Commission (filed Apr. 29, 2015), http://licensing.fcc.gov/myibfs/download.do?attachment_key=1087482.
+44 Request to Hold in Abeyance of Ligado Networks LLC (filed July 20, 2016), 
+http://licensing.fcc.gov/myibfs/download.do?attachment_key=1143933.
+45 Comprehensive Review of Licensing and Operating Rules for Satellite Services, Second Report and Order, 30 
+FCC Rcd 14713 (2015), https://apps.fcc.gov/edocs_public/attachmatch/FCC-15-167A1_Rcd.pdf.
+Federal Communications Commission DA 16-875
+6
+waivers.  Because these rule changes are not yet in effect, we address the Commission’s decisions in the 
+context of specific waiver requests, discussed below.
+III. DISCUSSION
+13. For the reasons discussed below, we grant Iridium’s application for a second-generation 
+NGSO MSS constellation, subject to conditions.  In doing so, we decline to require the sharing 
+demonstration for the 29.25-29.3 GHz band requested by GSO FSS commenters.
+A. Sharing Analysis for the 29.25-29.3 GHz Band
+14. Inmarsat, SES, and ViaSat request a demonstration from Iridium that its second-
+generation satellite system will be compatible with co-primary GSO FSS operations in the 29.25-29.3 
+GHz band.46 Inmarsat contends that such a demonstration is important given Iridium’s request for waiver 
+of the cross-polarization isolation requirement in section 25.210(i)(1), which Inmarsat states can facilitate 
+sharing.47 SES argues a sharing demonstration is required based on the “plain language” of section 
+25.258(c).48 ViaSat supports the calls for a sharing demonstration.49 In response, Iridium states that it has 
+provided all the information required concerning its proposed Ka-band use.50 Iridium notes that feeder-
+link earth stations are already authorized in the 29.25-29.3 GHz band for communication with its current 
+satellites.51 Iridium states that it seeks to continue this use with its new satellites without additional 
+interference protection,52 and under existing coordination agreements.53
+15. We decline to require the requested sharing demonstration.  The International Bureau has 
+interpreted section 25.258(c) as an obligation on earth station applicants when seeking authority to 
+transmit in the 29.25-29.3 GHz band.  Accordingly, the Bureau has declined to require such sharing 
+demonstrations when addressing uplink reception in a space station authorization.54 We act consistent 
+with this precedent.  Further, we note that Iridium Satellite LLC, the direct owner of Iridium,55 holds 
+  
+46 Inmarsat Petition at 3-4, 6; Inmarsat Reply at 3-4; SES Comments at 2; SES Reply at 3-5; ViaSat Response at 1-2.
+47 Inmarsat Petition at 3-4; Inmarsat Reply at 4-5; see also 47 C.F.R. § 25.210(i)(1).
+48 SES Reply at 3; see also SES Comments at 2; SES Reply at 3-5.  Section 25.258(c) provides that “[a]pplicants for 
+authority to use the 29.25-29.5 GHz band for NGSO MSS feeder uplinks will have to demonstrate that their systems 
+can share with GSO FSS and NGSO MSS systems that have been authorized for operation in that band.”  47 C.F.R. 
+§ 25.258(c).
+49 ViaSat Response at 1-2.
+50 Iridium Opposition at 3-5; Iridium Reply at 2.
+51 Iridium Opposition at 5.
+52 Id.
+53 Id. at 4; Second Generation Application, Engineering Statement at 45.
+54 See, e.g., Application of the Boeing Company Concerning Use of the 1990-2025/2165-2200 MHz and Associated 
+Frequency Bands for a Mobile-Satellite System, Order and Authorization, 16 FCC Rcd 13691, 13697-98, para. 16 
+(IB 2001), https://apps.fcc.gov/edocs_public/attachmatch/DA-01-1631A1.pdf; Application of Iridium LLC 
+Concerning Use of the 1990-2025/2165-2200 MHz and Associated Frequency Bands for a Mobile-Satellite System, 
+Iridium LLC, Order and Authorization, 16 FCC Rcd 13778, 13782-83, para. 11 (IB 2001), 
+https://apps.fcc.gov/edocs_public/attachmatch/DA-01-1636A1.pdf (both stating that a sharing demonstration under 
+section 25.258 would be required in an earth station application for uplink transmitting authority, not in an NGSO 
+MSS space station application).
+55 See Iridium Satellite LLC, Application for Pro Forma Transfer of Control, Attachment 2, File No. SES-T/C-
+20101001-01273; see also Iridium Holdings LLC and Iridium Carrier Holdings LLC, Transferors, and GHL 
+Acquisition Corp., Transferee, Applications for Consent to Transfer Control of Iridium Carrier Services LLC, 
+Iridium Satellite LLC, and Iridium Constellation LLC, Memorandum Opinion and Order and Declaratory Ruling, 24 
+(continued….)
+Federal Communications Commission DA 16-875
+7
+separate authorizations for feeder-link earth stations in the 29.25-29.3 GHz band.56 It provided 
+demonstrations required under section 25.258(c) in earth station applications.57 Iridium indicates that its 
+second-generation satellites will operate with the same feeder-link stations authorized to transmit to its 
+current satellites.58 To the extent that modification of the radiofrequency operations of the existing 
+stations is necessary to communicate with second-generation Iridium satellites, those stations must 
+include in any modification application appropriate showings, including under section 25.258(c), for any 
+proposed modified operations.59 We address Iridium’s request for waiver of section 25.210(i)(1) in 
+Section III.E below.
+B. Automatic Identification System Receiver
+16. Iridium proposes to include an AIS receiver on up to 65 of its second-generation 
+satellites.60 AIS is an international maritime navigation safety communications system through which 
+marine vessels automatically transmit navigational data to appropriately equipped shore stations, other 
+ships, and aircraft.61 The U.S. Coast Guard utilizes AIS for maritime domain awareness.62 Iridium 
+proposes to receive AIS messages within the 156.0125-162.0375 MHz maritime very high frequency 
+(VHF) band and to transmit the information through its inter-satellite links in the 23.18-23.38 GHz band 
+and its feeder downlinks in the 19.4-19.6 GHz band.63 Command and control of the receiver would be 
+(Continued from previous page)    
+FCC Rcd 10725, 10726, para. 3, 10751, Appendix B (IB 2009), https://apps.fcc.gov/edocs_public/attachmatch/DA-
+09-1809A1_Rcd.pdf.
+56 See Iridium Satellite LLC, File No. SES-LIC-20051010-01392 (granted Feb. 9, 2006) (Call Sign E050282), 
+http://licensing.fcc.gov/myibfs/displayLicense.do?filingKey=-94553; Iridium Satellite LLC, File Nos. SES-LIC-
+20060804-01311, SES-AMD-20070309-00333 (granted Mar. 29, 2007) (Call Sign E060300), 
+http://licensing.fcc.gov/myibfs/displayLicense.do?filingKey=-112882; Iridium Satellite LLC, File Nos. SES-MOD-
+20060907-01680, SES-AMD-20070309-00334 (granted Mar. 29, 2007) (Call Sign E960131), 
+http://licensing.fcc.gov/myibfs/displayLicense.do?filingKey=-115859.
+57 See Iridium Satellite LLC, File No. SES-AMD-20070309-00333; Iridium Satellite LLC, File No. SES-AMD-
+20070309-00334.
+58 Iridium Opposition at 5.
+59 47 C.F.R. § 25.258(c); see also 47 C.F.R. § 25.203(h), (k).
+60 Second Generation Application Amendment at 1 n.4.
+61 See 47 C.F.R. § 80.5 (defining AIS).  For more information on AIS, see WT Docket No. 04-344 (amending the 
+Commission’s rules regarding maritime Automatic Identification Systems).
+62 Amendment Regarding Maritime Automatic Identification Systems, Report and Order, 21 FCC Rcd 8892, 8894-
+95, para. 4 (2006), https://apps.fcc.gov/edocs_public/attachmatch/FCC-06-108A1.pdf.  AIS base stations are 
+operated solely by Federal Government entities.  Amendment Regarding Maritime Automatic Identification Systems, 
+Second Report and Order, 23 FCC Rcd 13711, 13726-27, paras. 25-26 (2006), 
+https://apps.fcc.gov/edocs_public/attachmatch/FCC-08-208A1.pdf.
+63 Second Generation Application Amendment at 1-2 & n.5.  Specifically, Iridium proposes to operate using AIS 
+signals in eight 25 kHz channels with the following center frequencies:
+161.975 MHz (AIS 1);
+162.025 MHz (AIS 2);
+156.775 MHz (AIS 3);
+156.825 MHz (AIS 4);
+161.950 MHz (Application Specific Messages (ASM) 1);
+162.000 MHz (ASM 2);
+156.525 MHz (Digital Selective Calling (DSC-R)); and
+(continued….)
+Federal Communications Commission DA 16-875
+8
+accomplished through Iridium TT&C operations in the 29.1-29.3 GHz uplink band.64
+17. In the United States, the Commission has allocated the AIS 1 (161.9625-161.9875 MHz) 
+and AIS 2 (162.0125-162.0375 MHz) bands to the MSS (Earth-to-space) on a co-primary basis for 
+reception of AIS messages.65 The Commission has also proposed to allocate the long-range AIS 3 
+(156.7625-156.7875 MHz) and AIS 4 (156.8125-156.8375 MHz) bands to the MSS (Earth-to-space) on a 
+primary basis for AIS operations.66 The Commission has not adopted or proposed MSS allocations for 
+the four other VHF frequencies with which Iridium is proposing to operate.
+18. Internationally, the AIS 1, AIS 2, AIS 3, and AIS 4 bands are all allocated to the MSS 
+(Earth-to-space) on a co-primary basis in Region 2 and on a secondary basis in Regions 1 and 3.67 There 
+are no allocations, international or domestic, to the MSS in the 161.950 MHz (ASM 1),68 162.000 MHz 
+(ASM 2), 156.525 MHz (DSC-R),69 or 156.8 MHz maritime mobile distress channels also requested by 
+Iridium.
+19. Iridium requests waivers of several rules to the extent necessary to authorize its proposed 
+operations using VHF frequencies.70 Specifically, Iridium requests a waiver of the Table of Frequency 
+Allocations, section 2.106, to permit operations in bands not allocated internationally and/or domestically 
+for its requested operations.  Iridium also seeks waiver of section 25.112(a)(3), which states that an 
+application will be considered defective if it requests authority to operate a space station in a frequency 
+band not allocated internationally for such operations.71 In addition, Iridium states that certain default 
+service rules, in section 25.287 and paragraphs (f) and (i) of section 25.210, are inappropriate to apply to 
+its VHF receiver and seeks waivers of these rules to the extent necessary.72
+(Continued from previous page)    
+156.8 MHz maritime mobile distress.
+64 October 31, 2014 Supplement at 2.
+65 47 C.F.R. § 2.106, footnotes 5.228C, US52.  Footnote US228 to the U.S. Table of Frequency Allocations provides 
+that non-Federal non-AIS stations may continue to operate in the 161.9625-161.9875 MHz band for varying lengths 
+of time.  47 C.F.R. § 2.106, footnote US228.
+66 Amendment of Parts 1, 2, 15, 25, 27, 74, 78, 80, 87, 90, 97, and 101 of the Commission’s Rules Regarding 
+Implementation of the Final Acts of the World Radiocommunication Conference (Geneva, 2007) (WRC-07), Other 
+Allocation Issues, And Related Rule Updates et al., Report and Order, Order, and Notice of Proposed Rulemaking, 
+30 FCC Rcd 4183, 4254-55, paras. 202-05 (2015), https://apps.fcc.gov/edocs_public/attachmatch/FCC-15-
+50A1_Rcd.pdf.
+67 47 C.F.R. § 2.106, footnotes 5.228, 5.228C, 5.228F.  
+68 AIS messages where the data content is defined by the application are application specific messages.  
+Recommendation ITU-R M.1371-5 (02/2014), Technical characteristics for an automatic identification system 
+using time division multiple access in the VHF maritime mobile frequency band, Annex 5, https://www.itu.int/rec/R-
+REC-M.1371/en.
+69 DSC is an internationally approved system for automatically contacting vessels on medium frequency, high 
+frequency, and VHF bands.  It allows mariners to send an automatically formatted distress alert instantly to the 
+Coast Guard or other rescue authority anywhere in the world.  DSC also allows mariners to initiate or receive 
+distress, urgency, safety and routine radiotelephone calls to or from any similarly equipped vessel or shore station, 
+without requiring either party to be near a radio loudspeaker.  It allows users to “direct dial” and “ring” other 
+maritime radio stations.
+70 We address Iridium’s requests for waivers of sections 25.114(c)(4)(vi)(B), 25.164, and 25.165, in connection with 
+its AIS payload, below.
+71 47 C.F.R. § 25.112(a)(3).
+72 Second Generation Application Amendment at 12-13.
+Federal Communications Commission DA 16-875
+9
+20. We may waive the Commission’s rules for good cause shown.73 Waiver is appropriate 
+where the particular facts make strict compliance inconsistent with the public interest.74 In making this 
+determination, we may take into account considerations of hardship, equity, or more effective 
+implementation of overall policy on an individual basis.75 Waiver is therefore appropriate if special 
+circumstances warrant a deviation from the general rule and such deviation will serve the public interest.76
+As noted above, only the AIS 1 and AIS 2 channels are currently allocated to the MSS in the U.S. Table 
+of Frequency Allocations. The remaining use of frequencies Iridium requests for MSS (Earth-to-space) 
+reception is therefore not in accordance with the U.S. Table of Frequency Allocations.
+21. We waive section 2.102(a), on our own motion,77 and section 2.106, as requested, to 
+permit Iridium’s proposed MSS (Earth-to-space) use of VHF bands in which there is no MSS allocation 
+for the relevant use (domestic or international).  The Commission may grant a waiver of the Table of 
+Frequency Allocations for non-conforming uses of spectrum when there is little potential for interference 
+into any service authorized under the Table of Frequency Allocations and when the non-conforming 
+operator accepts any interference from authorized services.78 The reception of transmissions, AIS or 
+other, cannot cause harmful interference, and these transmissions will be present pursuant to existing 
+authorizations using frequencies allocated to other services regardless of whether they are received by an 
+Iridium second-generation satellite.  Further, we conclude that the service Iridium proposes, with its 
+partner Harris Corporation, will serve the public interest by increasing maritime domain awareness for 
+both government and commercial users.  Accordingly, we waive sections 2.102(a) and 2.106.  As a 
+condition of this waiver, Iridium must not claim protection for reception of messages in the 156.0125-
+162.0375 MHz band that is not in accordance with the Table of Frequency Allocations for the pertinent 
+area, and may only claim protection to the extent provided by the status of the reception under the Table 
+of Frequency Allocations.  In addition, we note that all reception in this band must comport with the 
+requirements on unauthorized publication or use of communications in section 705 of the 
+Communications Act of 1934, as amended.79
+22. In addition, we waive section 25.112(a)(3) to permit consideration of Iridium’s request 
+for operations on the channels 161.950 MHz (ASM 1), 162.000 MHz (ASM 2), 156.525 MHz (DSC-R), 
+and 156.8 MHz (maritime mobile distress), which are not allocated internationally for the MSS.  In 2003, 
+the Commission determined to return as “premature” such applications seeking to operate in frequencies 
+for which there is no international allocation, because it can take several years for the ITU to adopt an 
+international frequency allocation.80 The Commission also expressed concern that such applications 
+would constitute “place holders.”  In this case, however, the lack of a current MSS allocation in these 
+bands does not necessarily preclude initiation of service, as transmissions may be conducted under other 
+  
+73 47 C.F.R. § 1.3.
+74 Northeast Cellular Tel. Co. v. FCC, 897 F.2d 1164, 1166 (D.C. Cir. 1990).
+75 WAIT Radio v. FCC, 418 F.2d 1153, 1159 (D.C. Cir. 1969), cert. denied, 409 U.S. 1027 (1972); Northeast 
+Cellular, 897 F.2d at 1166.
+76 NetworkIP, LLC v. FCC, 548 F.3d 116, 125-28 (D.C. Cir. 2008); Northeast Cellular, 897 F.2d at 1166.
+77 Section 2.102(a) is a companion to section 2.106, and states that the assignment and “actual use” of radio 
+frequencies between 9 kHz and 275 GHz shall be in accordance with the Table of Frequency Allocations in section 
+2.106, except as otherwise provided in other paragraphs of section 2.102.  Waiver of section 2.102(a) is necessary to 
+authorize Iridium’s requested operations that are not in conformance with the Table of Frequency Allocations.
+78 See, e.g., Applications by Orbcomm License Corp. For Authority to Modify its Non-Voice, Non-Geostationary 
+Satellite System et al., Order and Authorization, 23 FCC Rcd 4804, 4809, para. 15 (IB/OET 2008), 
+https://apps.fcc.gov/edocs_public/attachmatch/DA-08-633A1.pdf.
+79 47 U.S.C. § 605.
+80 Space Station Licensing Reform Order, 18 FCC Rcd at 10783, para. 49, 10809, para. 124.
+Federal Communications Commission DA 16-875
+10
+allocations.  Accordingly, we do not believe it would serve the public interest to prohibit Iridium the 
+flexibility of including the capability to receive messages in the VHF receiver also on frequencies not 
+allocated to the MSS.
+23. In addition, we have examined the technical information regarding the VHF receiver and 
+agree with Iridium that application of section 25.210(f) and (i) as default service rules are inappropriate in 
+this instance.  We waive section 25.217(b) and these requirements accordingly.81 Because section 25.287 
+contains requirements on earth stations, it is inapplicable to Iridium’s request for a space station 
+authorization.
+C. Automatic Dependent Surveillance–Broadcast Receiver
+24. Iridium also proposes to include a 1090 MHz Extended Squitter ADS-B receiver on its 
+second-generation satellites.  ADS-B is a service in which a transmitter periodically broadcasts 
+information from and about an aircraft.  The information may include the aircraft’s identity, current 
+position, altitude, and velocity, and it is broadcast to other ADS-B equipped aircraft and ADS-B ground 
+stations, for distribution to air traffic control systems.82 Iridium’s proposed space-based reception of this 
+information would allow aircraft to communicate ADS-B information to air traffic control systems while 
+in areas where there are no ADS-B ground stations in view of the aircraft.
+25. The 1090 MHz Extended Squitter83 broadcast link is used internationally for ADS-B 
+services.84 The frequency band used for ADS-B, 1087.7-1092.3 MHz, was recently allocated 
+internationally to the AMS(R)S (Earth-to-space) on a primary basis, limited to space station reception of 
+ADS-B emissions from aircraft transmitters that operate in accordance with recognized international 
+aeronautical standards.85 The U.S. Table of Frequency Allocations does not yet include this allocation.  
+26. Iridium states that it plans for the ADS-B payload to be authorized by another 
+administration, but has not provided additional information on the status of any such authorization.  
+Lacking any additional information on the identity of the proposed authorizing authority, or on the status
+of any pending application, we conditionally authorize Iridium operations using the 1087.7-1092.3 MHz 
+frequency band.  As with the reception of AIS messages, we find good cause to waive sections 2.102(a) 
+and 2.106 to permit reception of ADS-B messages on an unprotected basis in the United States because 
+doing so will not cause any interference or unreasonably preclude other services.  Any future protection 
+of ADS-B reception will be governed by the relevant status in the Table of Frequency Allocations and 
+must be in accordance with any subsequent rulemaking proceedings to implement any new domestic 
+allocations or service rules.
+27. In response to the concern expressed by Inmarsat, we clarify that the reception of ADS-B 
+  
+81 We address below Iridium’s requests for waivers of the milestone requirements in section 25.164 and the bond-
+posting requirement in section 25.165.
+82 See 47 C.F.R. § 87.5 (defining ADS-B Service).  Specifically, ADS-B messages are produced by “ADS-B Out.”  
+See 14 C.F.R. § 91.227(a) (defining ADS-B Out); Automatic Dependent Surveillance-Broadcast (ADS-B) Out 
+Performance Requirements To Support Air Traffic Control (ATC) Service, Docket No. FAA-2007-29305, 75 FR 
+30160, 30161-62 (May 28, 2010) (ADS-B Out Rule); see also 14 C.F.R. § 91.227(d) (required contents of ADS-B 
+Out message).  ADS-B is an important component of the Federal Aviation Administration’s Next Generation Air 
+Transportation System.  See generally ADS-B Out Rule.
+83 The extended squitter is a long message transmitted automatically, without needing to be interrogated by radar, to 
+announce the aircraft’s presence to nearby ADS–B equipped aircraft or ground-based air traffic control.  ADS-B Out 
+Rule, 75 FR at 30162 n.6.
+84 Id., 75 FR at 30163.
+85 2015 World Radiocommunication Conference, Final Acts at 19 (adding footnote 5.328AA to the 960-1164 MHz 
+allocations), http://www.itu.int/pub/R-ACT-WRC.12-2015/en.  The new international allocation will come into 
+force on January 1, 2017.  Id. at 73 (adding No. 59.13 to the ITU Radio Regulations).
+Federal Communications Commission DA 16-875
+11
+or AIS messages on Iridium satellites, and relaying of that information through Iridium feeder links, does 
+not alter the rights and obligations of the relevant parties with respect to coordination and protection of 
+Iridium feeder links.86 We also find that Iridium has provided sufficient information regarding its 
+proposed 1090 MHz Extended Squitter ADS-B receiver to process its application.
+D. Protection of Radio Astronomy
+28. Iridium’s use of the 1617.775-1626.5 MHz band is constrained by section 25.21387 and 
+footnote 5.372 of the Table of Frequency Allocations,88 which require protection of stations in the radio 
+astronomy service (RAS) operating in the 1610.6-1613.8 MHz band.  In particular, ITU Resolution 739, 
+as revised by WRC-15, addresses the compatibility between the radio astronomy service and satellite 
+services in several frequency bands including the 1610.6-1613.8 MHz band.
+29. Iridium initially proposed to meet these obligations by employing a series of 
+configuration changes on its second-generation satellites during RAS collection events.89 CRAF and 
+NRAO, representing radio astronomers from Europe and the United States, respectively, objected to the 
+protection levels and coordination required by Iridium’s initial proposal.  Subsequently, Iridium 
+developed a new plan.  Iridium now proposes to shift traffic from satellites in view of RAS sites onto 
+adjacent satellites, thereby limiting spurious emissions into the RAS band.  Iridium states that, using this 
+method, it will be able to meet the 2 percent data loss criteria recommended by the ITU for the protection 
+of the RAS.90
+30. We believe that Iridium’s proposal, if successfully implemented, will be sufficient to 
+protect observations of the RAS.  We note, however, that Iridium will remain obliged in section 25.213 to 
+take “whatever steps necessary” to avoid causing harmful interference from its downlink operations into 
+the U.S. RAS sites listed in section 25.213 during periods of observation.  In addition, we believe that it is 
+appropriate to require that all Iridium operations be subject to the terms of the ITU Radio Regulations.
+E. Technical Waivers
+31. Cross-Polarization Isolation. Iridium requests waiver of section 25.210(i)(1), which 
+requires that space station antennas in the FSS, other than those in the 17/24 GHz Broadcasting-Satellite 
+Service, be designed to provide a cross-polarization isolation of at least 30 dB within their primary 
+coverage area.91 This rule applies to Iridium’s feeder-link and TT&C operations in Ka-band frequencies 
+allocated to the FSS.  Iridium states that its second-generation satellites are designed to use feeder-link 
+beams with a cross-polarization isolation of 19 dB and TT&C beams with a cross-polarization isolation of 
+  
+86 See Inmarsat Mobile Networks, Inc. Application to Operate a Fixed-Satellite Service Gateway Earth Station 
+Facility in Lino Lakes, Minnesota with the Inmarsat-5 F2 Space Station, Order and Authorization and Declaratory 
+Ruling, 30 FCC Rcd 2770 (IB/OET 2015), https://apps.fcc.gov/edocs_public/attachmatch/DA-15-392A1_Rcd.pdf.
+87 47 C.F.R. § 25.213; see also Amendment of the Commission’s Rules to Establish Rules and Policies Pertaining to 
+a Mobile Satellite Service in the 1610–1626.5/2483.5–2500 MHz Frequency Bands, Report and Order, 9 FCC Rcd 
+5936, 5976-82, 6043-46 (1994) (adopting section 25.213), https://apps.fcc.gov/edocs_public/attachmatch/FCC-94-
+261A1.pdf.
+88 47 C.F.R. § 2.106, footnote 5.372; see also Spectrum and Service Rules for Ancillary Terrestrial Components in 
+the 1.6/2.4 GHz Big LEO Bands; Review of the Spectrum Sharing Plan Among Non-Geostationary Satellite Orbit 
+Mobile Satellite Service Systems in the 1.6/2.4 GHz Bands, Second Order on Reconsideration, Second Report and 
+Order, and Notice of Proposed Rulemaking, 22 FCC Rcd 19733, 19742, para. 20 (2007), 
+https://apps.fcc.gov/edocs_public/attachmatch/FCC-07-194A1.pdf; First Generation License, para. 14.
+89 Second Generation Application, Engineering Statement at 41-44.
+90 Letter from Scott Blake Harris, Counsel to Iridium Constellation LLC, to Jose Albuquerque, Chief, Satellite 
+Division, International Bureau, FCC, at 2 (filed Mar. 28, 2016) (included here as Appendix B).
+91 47 C.F.R. § 25.210(i)(1); Second Generation Application, Narrative at 12-13, Engineering Statement at 21-23.
+Federal Communications Commission DA 16-875
+12
+15 dB.92 In support of its waiver request, Iridium states that the cross-polarization isolation for the 
+second-generation satellite feeder-link beams is the same cross-polarization isolation used for the 
+currently operating satellites.
+32. Inmarsat and ViaSat oppose a waiver of section 25.210(i)(1), arguing that Iridium’s 
+failure to meet the cross-polarization isolation requirement may make sharing with GSO FSS operations 
+in the 29.25-29.3 GHz band more difficult.93 SES does not oppose grant of the waiver, but asks that an 
+appropriate condition be placed to protect future, compliant space stations.94
+33. We grant Iridium waiver of section 25.210(i)(1).  In the Part 25 Second Report and 
+Order, the Commission deleted this requirement as unnecessary.95 While the revised rules have not yet 
+come into effect, we do not find a public interest benefit in requiring Iridium to meet a technical 
+obligation the Commission has determined is unnecessary.  Accordingly, we waive section 25.210(i)(1), 
+and decline to impose the conditions requested by SES.
+34. Mid-Band TT&C. Iridium also requests waiver of section 25.202(g) to allow TT&C 
+operations throughout its assigned Ka-band feeder-link frequencies.96 Section 25.202(g) requires TT&C 
+functions to be conducted “at either or both edges of the allocated band(s).”97 The purpose of the rule is 
+to simplify the coordination process for satellite systems, to provide an incentive for the operator to 
+maximize the efficiency of its system’s TT&C operations, and to minimize the constraints placed on other 
+satellite operations.98
+35. Iridium second-generation satellites are designed to perform band-edge TT&C operations 
+using omnidirectional antennas on center frequencies of 29.102 GHz, 29.298 GHz, and within 19.4022-
+19.4062 GHz when the satellites are in view of Iridium’s feeder-link earth station network.  In addition, 
+Iridium plans to embed TT&C information into its normal Ka-band feeder-link operations and transmit 
+that information between satellites using its inter-satellite links.  Iridium states that this approach allows it 
+to maintain connectivity in real time with every satellite in its constellation, and is a feature of its existing 
+constellation.  Iridium also states that its coordination agreements contemplate this TT&C use.  SES does 
+not oppose grant of the waiver, but asks that any waiver be accompanied by conditions.99
+36. We waive section 25.202(g).  In the Part 25 Second Report and Order, the Commission 
+amended section 25.202(g) to permit mid-band TT&C that does not cause additional interference than, 
+and does not require additional protection than, normal service traffic.  In accordance with the 
+Commission’s current policy in this regard, we waive section 25.202(g) to permit the requested mid-band 
+operations.  Iridium will be required to operate its mid-band TT&C in accordance with the revised 
+  
+92 Second Generation Application, Narrative at 12-13, Engineering Statement at 21-22.
+93 Inmarsat Petition at 4-5; Inmarsat Reply at 4-5; ViaSat Response at 2-3.
+94 SES Comments at 2-4; SES Reply at 5-7.
+95 Part 25 Second Report and Order, 30 FCC Rcd at 14817 para. 333.
+96 Second Generation Application, Narrative at 15-16, Engineering Statement at 23; see also Iridium Opposition at 
+8-9.
+97 47 C.F.R. § 25.202(g).
+98 Amendment of the Commission’s Rules with regard to the 3650-3700 MHz Government Transfer Band; The 4.9 
+GHz Band Transferred from Federal Government Use, First Report and Order and Second Notice of Proposed 
+Rulemaking, 15 FCC Rcd 20488, 20538-39, para. 129 (2000), https://apps.fcc.gov/edocs_public/attachmatch/FCC-
+00-363A1.pdf.
+99 SES Comments at 3-4.  Specifically, SES asks that we include with any waiver a statement that Iridium’s mid-
+band TT&C operations must conform to existing and future coordination agreements, are permitted solely on an 
+unprotected and non-harmful interference basis, and must accommodate future satellite networks that comply with 
+section 25.202(g).
+Federal Communications Commission DA 16-875
+13
+operational requirement in section 25.202(g).  We believe that this treatment more appropriately balances 
+the needs of Iridium and GSO FSS operators than would the strict non-interference condition proposed by 
+SES, which is based on earlier Commission policies.
+37. Stored Energy at End of Life. Iridium seeks waiver of sections 25.114(d)(14)(ii) and 
+25.283(c).  Specifically, Iridium second-generation satellites operate using a single tank with a usable 
+volume of 220 liters.  The tank contains an internal bladder.  One side of the bladder membrane is filled 
+with 1.5 kg of nitrogen pressurant and is sealed prior to launch.  At end-of-life of a second-generation 
+satellite, the nitrogen “dry” side of the membrane will occupy a volume of approximately 219 liters.  
+After review of the technical information provided by Iridium, we conclude that waiver of section 
+25.283(c) is warranted with respect to this de minimis inert gas.  Iridium also reports that, following fully 
+depleting fuel at end-of-life, on the other side of the membrane it anticipates that up to 1.6 kg of 
+hydrazine will remain in the propellant lines of the system.  Iridium has properly disclosed its passivation 
+plans, and therefore waiver of section 25.114(d)(14)(ii) is unnecessary.
+38. Technical Information. Finally, Iridium requests waiver of section 25.114(c)(4)(vi) and 
+(vii) to the extent necessary.100 At the time Iridium submitted its Second Generation Application, these 
+rules required space station applicants to provide the gain of transponder channels and the predicted 
+receiver and transmitter channel filter response characteristics.  Iridium states that this information is 
+inapplicable to its satellite design, which uses on-board processors and regenerative payloads.  We agree, 
+and therefore find that waiver is unnecessary.  We note in any event that these information requirements 
+were deleted from our rules.101
+39. In addition, Iridium requests waiver of section 25.114(c)(4)(vi)(B) to omit the 
+recommended 2 dB, 4 dB, 6 dB, 8 dB, 10 dB, 15 dB and 20 dB antenna gain contours regarding its VHF 
+receiver.102 We have reviewed the technical information provided by Iridium and conclude that these 
+additional gain contours are unnecessary for this receiver.
+F. Other Matters
+40. Processing round, bond and milestones.  As noted above, Iridium seeks to operate using 
+ADS-B and AIS frequencies that are not authorized for its current-generation satellites.  This request for 
+NGSO-like satellite operation using additional spectrum is potentially subject to consideration in a 
+processing round under section 25.157, and any resultant grant for such operation is subject to the bond-
+posting requirement in section 25.165 and satisfaction of a milestone schedule set forth in section 25.164.
+41. The Commission may waive any rule for good cause.  The purpose of the processing 
+round procedure is to prevent one applicant from unreasonably precluding additional entry by other 
+operators in the requested frequency band.103 The bond and milestone requirements discourage spectrum 
+warehousing.  In this instance, Iridium’s receive-only operations in the ADS-B and AIS bands will not 
+preclude any additional satellite operator from receiving the same signals on its own satellite system.  
+ADS-B and AIS messages are transmitted under existing, terrestrial wireless licenses and are not for the 
+exclusive use of Iridium.  Such transmissions would occur in most cases with or without the presence of 
+Iridium satellite receivers.  In addition, we note that Iridium’s new satellites otherwise qualify as 
+replacement satellites, which are not subject to the processing round, bond and milestone requirements 
+  
+100 47 C.F.R. § 25.114(c)(4)(vi), (vii) (2013); Second Generation Application, Narrative at 11-12, Engineering 
+Statement at 30.
+101 See International Bureau Announces the Effective Date of Rules Adopted in the Part 25 Order, Public Notice, 
+DA 14-1270 (rel. Sept. 3, 2014), https://apps.fcc.gov/edocs_public/attachmatch/DA-14-1270A1_Rcd.pdf; 
+Comprehensive Review of Licensing and Operating Rules for Satellite Services, Report and Order, 28 FCC Rcd 
+12403, 12431, para. 84 (2013), https://apps.fcc.gov/edocs_public/attachmatch/FCC-13-111A1_Rcd.pdf.
+102 Second Generation Application Amendment, Narrative at 11, Engineering Statement at 4.
+103 Space Station Licensing Reform Order, 18 FCC Rcd at 10774-75, para. 25.
+Federal Communications Commission DA 16-875
+14
+indicated above.  Rather, the Commission has expressed confidence that requests for replacement 
+satellites will be intended to continue an existing service, rather than being filed for speculative 
+purposes.104 Here, Iridium’s initial second-generation satellites, including additional receive frequencies, 
+are scheduled for imminent launch.  Because of the nature of ADS-B and AIS automatic transmitters, 
+inclusion of the additional receive frequencies on replacement satellites, and unconstrained opportunities 
+for additional entry in these services, we find good cause to waive sections 25.157, 25.164, and 25.165 
+notwithstanding the eventual protection afforded to Iridium receivers on AIS channels 1 and 2, and 
+potentially on additional channels pending future allocations.  Other receive operations on an unprotected 
+basis do not raise the potential for warehousing concerns.
+42. License Term.  We modify Iridium’s license to specify an extended license term 
+applicable to the second-generation satellites, beginning at 3 a.m. Eastern Time on the date when Iridium 
+notifies the Commission that operation of an initial second-generation space station is compliant with the 
+terms and conditions of this authorization and that the space station has been placed in its authorized 
+orbit, and ending 15 years later.105 Because Iridium proposes to remove its first-generation satellites from 
+service as they are replaced in orbit by second-generation satellites, those first-generation satellites will 
+remain subject to a license term ending on January 31, 2018.
+43. Ligado Request.  We decline Ligado’s informal request to hold in abeyance the Iridium 
+application.  The issues Ligado raises in this proceeding are derivative of claims that Iridium has made in 
+IB Dockets 11-109 and 12-340, and are better suited for treatment in those separate proceedings.106
+IV. CONCLUSION AND ORDERING CLAUSES
+44. We conclude that grant of Iridium’s application for a second-generation NGSO MSS 
+satellite constellation, as conditioned herein, will serve the public interest, convenience and necessity.
+45. Accordingly, IT IS ORDERED that the application of Iridium Constellation LLC, File 
+Nos. SAT-MOD-20131227-00148 and SAT-AMD-20151022-00074, to modify its license for a non-
+geostationary-satellite orbit, mobile-satellite service and aeronautical mobile-satellite (route) service 
+satellite system IS GRANTED, and Iridium Constellation LLC IS AUTHORIZED to construct, deploy 
+and operate a constellation of 66 space stations at an altitude of 778 kilometers and arranged in six orbital 
+planes, with an inclination of 86.4 degrees.  The initial insertion orbit for Iridium second-generation 
+satellites is a 625 km altitude circular orbit with an inclination of 86.66 degrees.  Iridium second-
+generation satellites will utilize the following frequency bands, consistent with the operational parameters 
+and technical specifications in its application:
+a. 156.0125-162.0375 MHz (Earth-to-space) for reception of Automatic Identification 
+System, Application Specific Messages, Digital Selective Calling, and maritime distress, 
+urgency and safety calling transmissions from maritime vessels;
+b. 1087.7-1092.3 MHz (Earth-to-space) for reception of Automatic Dependent 
+Surveillance–Broadcast transmissions from aircraft;
+c. 1617.775-1618.725 MHz (space-to-Earth and Earth-to-space) for mobile-satellite service 
+on a shared basis with the Globalstar system;
+d. 1618.725-1626.5 MHz (space-to-Earth and Earth-to-space) for mobile-satellite service on 
+an exclusive basis and for aeronautical mobile-satellite (route) service in oceanic, polar, 
+and remote regions;
+  
+104 Id. at 10825, para. 167.
+105 47 C.F.R. § 25.121(a), (d)(2).
+106 See, e.g., Comments of Iridium Communications, IB Docket Nos. 11-109 and 12-340 (filed May 23, 2016), 
+https://ecfsapi.fcc.gov/file/60002015571.pdf.
+Federal Communications Commission DA 16-875
+15
+e. 19.4-19.6 GHz (space-to-Earth) for feeder downlinks, telemetry, and tracking;
+f. 23.18-23.38 GHz for inter-satellite links; and
+g. 29.1-29.3 GHz (Earth-to-space) for feeder uplinks, tracking, and command.
+46. IT IS FURTHER ORDERED that this authorization for second-generation satellites is 
+subject to conditions established for the Iridium first-generation constellation, as reproduced in Appendix 
+A.
+47. IT IS FURTHER ORDERED that Iridium is authorized to construct and deploy up to 15 
+second-generation in-orbit spare satellites.
+48. IT IS FURTHER ORDERED that sections 2.102(a), 2.106, 25.112(a)(3), 25.157, 25.164, 
+25.165, 25.202(g), 25.210(f), (i), 25.217(b), and 25.283(c) of the Commission’s rules, 47 C.F.R. §§ 
+2.102(a), 2.106, 25.112(a)(3), 25.157, 25.164, 25.165, 25.202(g), 25.210(f), (i), 25.217(b), 25.283(c), are 
+WAIVED to the extent indicated herein.
+49. IT IS FURTHER ORDERED that Iridium must provide the Commission with the 
+information required for Advance Publication, Coordination, and Notification of frequency assignment 
+filings, including due diligence information, pursuant to the Radio Regulations of the International 
+Telecommunication Union.  No protection from interference caused by radio stations authorized by other 
+Administrations is guaranteed unless ITU procedures are timely completed or, with respect to individual 
+Administrations, coordination agreements are successfully completed.  A license for which such 
+procedures have not been completed may be subject to additional terms and conditions required for 
+coordination of the frequency assignments with other Administrations.  Further, operations of the Iridium 
+second-generation satellite constellation must be in accordance with the ITU Radio Regulations.
+50. IT IS FURTHER ORDERED that, except to the extent waived above for reception in the 
+156.0125-162.0375 MHz and 1087.7-1092.3 MHz bands, operations of the Iridium second-generation 
+space stations must be in accordance with the Table of Frequency Allocations, 47 C.F.R. § 2.106.  Iridium 
+may claim protection for reception in the 156.0125-162.0375 MHz or 1087.7-1092.3 MHz bands only to 
+the extent permitted under the U.S. Table of Frequency Allocations for domestic operations or the ITU 
+Radio Regulations for international operations, as of the time of operation.  Operations in the 156.0125-
+162.0375 MHz and 1087.7-1092.3 MHz bands must be in accordance with any Commission rulemakings 
+subsequent to the release of this Order and Authorization that implement any new domestic allocations or 
+service rules for these bands.
+51. IT IS FURTHER ORDERED that Iridium shall implement its plan for the protection of 
+radio astronomy observations in the 1610.6-1613.8 MHz band set forth in its letter of March 28, 2016, 
+attached hereto, with respect to both U.S. and international observations.  In this respect, Iridium shall not 
+produce out of band emissions that cause detrimental interference to radio astronomy observations (see 
+Section III of Article 29 of the ITU Radio Regulations) and must comply with No. 5.372 of the ITU 
+Radio Regulations and with 47 C.F.R. § 25.213.
+52. IT IS FURTHER ORDERED that the license term for the Iridium second-generation 
+constellation will be fifteen years, beginning at 3 a.m. Eastern Time on the date when Iridium notifies the 
+Commission that operation of an initial second-generation space station is compliant with the terms and 
+conditions of this authorization and that the space station has been placed in its authorized 778-km orbit.
+53. IT IS FURTHER ORDERED that the Petition to Dismiss, Deny or Hold in Abeyance 
+filed by Inmarsat Inc. IS DENIED.
+Federal Communications Commission DA 16-875
+16
+54. This Order and Authorization is issued on delegated authority pursuant to sections 0.241 
+and 0.261 of the Commission’s rules, 47 C.F.R. §§ 0.241, 0.261, and is effective upon release.
+FEDERAL COMMUNICATIONS COMMISSION
+José P. Albuquerque
+Chief, Satellite Division
+International Bureau
+Jamison Prime
+Acting Chief, Policy and Rules Division
+Office of Engineering and Technology
+Federal Communications Commission DA 16-875
+17
+APPENDIX A
+Conditions on Both First-Generation and Second-Generation Authorizations
+Aeronautical mobile-satellite (route) service (AMS(R)S):  Iridium may provide AMS(R)S in oceanic, 
+polar, and remote regions, subject to the following conditions:
+a. AMS(R)S operations must be confined to the 1618.725-1626.5 MHz frequency band.
+b. AMS(R)S operations must comply with MSS coordination agreements with other MSS operators, 
+the results of the agreement seeking process under ITU Radio Regulation 9.21, and coordination 
+agreements with operators of radio astronomy observatories.
+c. Any additional protection desired for AMS(R)S operations from interference from previously 
+authorized MSS operations in adjacent frequency bands, beyond that afforded by existing 
+arrangements, must be sought through new or modified inter-operator arrangements.
+d. In connection with the provision of AMS(R)S to aircraft of any particular country of registry or in 
+any particular airspace, Iridium is obliged to comply with the applicable laws, regulation, rules 
+and licensing procedures of that country and/or the relevant airspace administrator.
+e. Iridium must limit AMS(R)S operations outside the United States to the oceanic regions, the 
+Antarctic land mass and adjacent waters, and the remote areas of those territories for which it has 
+successfully completed the agreement seeking process pursuant to ITU Radio Regulation 5.367.
+f. Iridium must give priority to AMS(R)S and 911 safety messages, by real-time pre-emption if 
+necessary, over all Iridium message traffic that is not considered safety-related pursuant to a 
+recognized safety service.
+Executive Branch Agreement:  Iridium’s authorizations are conditioned upon compliance by Iridium 
+Holdings LLC, Iridium Carrier Holdings LLC, and GHL Acquisition Corp., and their respective 
+subsidiaries and affiliates, with the commitments and undertakings set forth in the Executive Branch 
+Agreement dated August 17, 2001, included as Appendix A in DA 02-307.107
+Section 309(h):  This station license shall not vest in Iridium any right to operate the stations nor any right 
+in the use of the frequencies designated in the license beyond the term thereof nor in any other manner 
+than authorized herein.  Neither the license nor the right granted thereunder shall be assigned or otherwise 
+transferred in violation of 47 U.S.C. chapter 5.  This license shall be subject in terms to the right of use or 
+control conferred by 47 U.S.C. § 606.
+  
+107 https://apps.fcc.gov/edocs_public/attachmatch/DA-02-307A1.pdf.
+Federal Communications Commission DA 16-875
+APPENDIX B
+Iridium Plan to Protect Radio Astronomy Observations
+Federal Communications Commission DA 16-875
+19
+Federal Communications Commission DA 16-875
+20
+Federal Communications Commission DA 16-875
+21
