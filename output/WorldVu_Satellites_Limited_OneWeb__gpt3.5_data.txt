@@ -1,0 +1,1 @@
+{"companyName": "WorldVu Satellites Limited (OneWeb)", "orbitType": null, "application": null, "date50": null, "date100": null, "totalSatelliteNumber": 716, "altitudes": null, "inclination": [87.9, 55], "numberOrbPlane": [12, 8], "totalSatellitePerOrbPlane": [49, 16], "totalSatellitePerAltIncl": [588, 128], "orbShape": null, "operationalLifetime": null}
