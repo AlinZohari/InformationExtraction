@@ -1,124 +1,29 @@
-#importing openai and secret key
-import openai
 import os
+import re
+import json
+import numpy as np
+import pandas as pd
+import asyncio
 from secret_key import openai_key
 os.environ["OPEN_API_KEY"] = openai_key
 
-# ---------------------------------------------------
-
-#seeing what gpt model are available for us
-openai.api_key = openai_key
-openai.Model.list()
-
-# ---------------------------------------------------
-
-#insert the model you are using in this notebook 
-model = "gpt-3.5-turbo"
-
-#insert filename you want to extract information from 
-filename = "data/authorize_doc/StarlinkGen2_FCC-22-91A1.txt"
-
-# ---------------------------------------------------
-
-#importing module for langchain and kor
-
-from typing import List, Optional
-
-from langchain.callbacks import get_openai_callback
+from langchain.schema import Document
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chat_models import ChatOpenAI
+from langchain.callbacks import get_openai_callback
+
+
+from typing import List, Optional, Union
+from pydantic import BaseModel, Field, validator, ValidationError
 
 from kor.extraction import create_extraction_chain
 from kor.nodes import Object, Text, Number
-
-import pandas as pd
-from pydantic import BaseModel, Field, validator
-from kor import extract_from_documents, from_pydantic, create_extraction_chain
+from kor import extract_from_documents, from_pydantic
 
 
-# ---------------------------------------------------
-
-#importing llm model
-
-#from langchain.llms import OpenAI
-
-llm = ChatOpenAI(
-    model_name= model,
-    temperature=0,#dont be creative and make up answer
-    request_timeout= 120,
-    openai_api_key= openai_key
-    
-)
-
-# ---------------------------------------------------
-
-from langchain.schema import Document
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-
-# ---------------------------------------------------
-
-#loading the document
-def import_document(filename):
-    encodings = ['utf-8', 'ISO-8859-1', 'utf-16', 'ascii', 'cp1252']
-    for enc in encodings:
-        try:
-            with open(filename, 'r', encoding=enc) as file:
-                document_text = file.read()
-            return document_text
-        except UnicodeDecodeError:
-            continue
-        except FileNotFoundError:
-            print(f"Error: File '{filename}' not found.")
-            return None
-        except Exception as e:
-            print(f"Error occurred while importing the document: {e}")
-            return None
-    print(f"Error: Could not decode file with any of the tried encodings: {encodings}")
-    return None
-
-document = import_document(filename)
-if document is not None:
-    print("Document content:")
-    print(document)
-
-# ---------------------------------------------------
-
-len(document)
-
-# ---------------------------------------------------
-
-#this is token count in textacy
-import textacy
-doc = textacy.make_spacy_doc(document, lang="en_core_web_sm")
-print(doc._.preview)
-
-# ---------------------------------------------------
-
-from textacy import text_stats as ts
-
-# Number of words and number of unique words
-print("Number of words: ", ts.n_words(doc))
-print("Number of unique words: ", ts.n_unique_words(doc))
-
-# Entropy of words in the document- measures how much informations produced on the average of the word
-print("Entropy: ", ts.entropy(doc))
-
-# Compute the Type-Token Ratio (TTR) of doc_or_token,a direct ratio of the number of unique words (types) of all words (token)
-print("Diversity: ", ts.diversity.ttr(doc))
-
-# Flesch Kincaid grade level: readability tests designed to indicate how difficult a passage is
-print("Flesch Kincaid: ",ts.flesch_kincaid_grade_level(doc))
-
-# ---------------------------------------------------
-
-#split the document into chunks
-doc = Document(page_content = document)
-split_docs = RecursiveCharacterTextSplitter().split_documents([doc])
-
-# ---------------------------------------------------
-
-from pydantic import BaseModel, Field, validator, ValidationError
-from typing import Optional, List, Union
-import re
+# Define constants
+model = "gpt-3.5-turbo"
+filename = "data/authorize_doc/StarlinkGen2_FCC-22-91A1.txt"
 
 # ---------------------------------------------------
 
@@ -165,7 +70,6 @@ class OrbitEnv(BaseModel):
         description="The operational lifetime of the satellite in the constellation in years"
     )
 
-
     @validator("const_name", "orbit_type", "application")
     def validate_name(cls, v):
         if not re.match("^[a-zA-Z\s().,-]*$", v):
@@ -195,8 +99,6 @@ class OrbitEnv(BaseModel):
         if not re.match("^[a-zA-Z\s]*$", v):
             raise ValueError("orbit_shape can only contain alphabetic characters and spaces.")
         return v
-    
-
 
 # ---------------------------------------------------
 
@@ -264,50 +166,50 @@ schema, extraction_validator = from_pydantic(
 
 # ---------------------------------------------------
 
-chain = create_extraction_chain(
-    llm,
-    schema,
-    encoder_or_encoder_class="json",
-    validator=extraction_validator,
-    input_formatter="triple_quotes",
-)
-
-#csv does support list , but json is not as accurate as csv
+# Define document
+def import_document(filename: str) -> Optional[str]:
+    encodings = ['utf-8', 'ISO-8859-1', 'utf-16', 'ascii', 'cp1252']
+    for enc in encodings:
+        try:
+            with open(filename, 'r', encoding=enc) as file:
+                document_text = file.read()
+            return document_text
+        except UnicodeDecodeError:
+            continue
+        except FileNotFoundError:
+            print(f"Error: File '{filename}' not found.")
+            return None
+        except Exception as e:
+            print(f"Error occurred while importing the document: {e}")
+            return None
+    print(f"Error: Could not decode file with any of the tried encodings: {encodings}")
+    return None
 
 # ---------------------------------------------------
-
-print(chain.prompt.format_prompt(text="[user input]").to_string())
-
-# ---------------------------------------------------
-
-import asyncio
-
-async def main():
-    with get_openai_callback() as cb:
-        document_extraction_results = await extract_from_documents(
+def extract_data(document: str, llm: ChatOpenAI, chain, split_docs) -> dict:
+    loop = asyncio.get_event_loop()
+    document_extraction_results = loop.run_until_complete(
+        extract_from_documents(
             chain, split_docs, max_concurrency=5, use_uid=False, return_exceptions=True
         )
+    )
 
-        # Handling potential exceptions
-        for result in document_extraction_results:
-            if isinstance(result, Exception):
-                print(f"Error encountered: {result}")
+    # Handling potential exceptions
+    for result in document_extraction_results:
+        if isinstance(result, Exception):
+            print(f"Error encountered: {result}")
 
-        print(f"Total Tokens: {cb.total_tokens}")
-        print(f"Prompt Tokens: {cb.prompt_tokens}")
-        print(f"Completion Tokens: {cb.completion_tokens}")
-        print(f"Successful Requests: {cb.successful_requests}")
-        print(f"Total Cost (USD): ${cb.total_cost}")
+    print(f"Total Tokens: {get_openai_callback.total_tokens}")
+    print(f"Prompt Tokens: {get_openai_callback.prompt_tokens}")
+    print(f"Completion Tokens: {get_openai_callback.completion_tokens}")
+    print(f"Successful Requests: {get_openai_callback.successful_requests}")
+    print(f"Total Cost (USD): ${get_openai_callback.total_cost}")
+
+    return document_extraction_results
 
 # ---------------------------------------------------
 
-document_extraction_results
-
-# ---------------------------------------------------
-
-import pandas as pd
-
-def generate_dataframe(json_data):
+def generate_dataframe(document_extraction_results: dict) -> pd.DataFrame:
     # Prepare an empty list to store all OrbitEnv data
     data = []
 
@@ -342,25 +244,7 @@ def generate_dataframe(json_data):
     df.replace(['','-',0,'Null', 'null', 'Not Mentioned', 'Not mentioned', 'not mentioned', 'unknown', 'Unknown','N/A'], None, inplace=True)
     
     return df
-
-# Usage:
-df = generate_dataframe(document_extraction_results)
-
-
 # ---------------------------------------------------
-
-df
-
-# ---------------------------------------------------
-
-df.shape
-
-# ---------------------------------------------------
-
-import pandas as pd
-import json
-import numpy as np
-import re
 
 def find_most_frequent(df: pd.DataFrame) -> dict:
     most_frequent_dict = {}
@@ -376,58 +260,68 @@ def find_most_frequent(df: pd.DataFrame) -> dict:
             most_frequent_dict[column] = None
     return most_frequent_dict
 
-def convert(o):
-    if isinstance(o, np.generic):
-        return o.item()
-    raise TypeError
+# ---------------------------------------------------
 
 def convert_to_json(data: dict) -> str:
     try:
         json_data = json.dumps(data, default=convert)
-        return json_data
     except TypeError:
         return json.dumps({"error": "Failed to serialize data"})
+    return json_data
+# ---------------------------------------------------
 
-result = find_most_frequent(df)
-result
-#returninng dictionary key-value pair, mutable , can be add, remove, change element
+def save_to_file(data: str, model: str) -> None:
+    # Check if directory exists, if not create it
+    directory = "output"
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+    result = json.loads(data)
+    name = result.get('constellationName', {}).get('modes', [None])[0] if isinstance(result.get('constellationName', {}), dict) else result.get('constellationName', None)
+
+    if name is not None:
+        name = re.sub(r'\W+', '_', name)
+        filename = f'output/{name}_{model}_data.json'
+        with open(filename, 'w+') as txt_file:
+            txt_file.write(data)
 
 # ---------------------------------------------------
 
-# do and if statement here to find date_500 and date_100
+def main(model, filename):
+    # Set up the environment and load the document
+    document = import_document(filename)
+    if document is None:
+        print("Failed to load the document.")
+        return
 
-# ---------------------------------------------------
+    # Setup for extraction chain and document splitting
+    llm = ChatOpenAI(
+        model_name=model,
+        temperature=0,
+        request_timeout=120,
+        openai_api_key= openai_key 
+    )
+    doc = Document(page_content=document)
+    split_docs = RecursiveCharacterTextSplitter().split_documents([doc])
+    chain = create_extraction_chain(
+        llm,
+        schema,
+        encoder_or_encoder_class="json",
+        validator=extraction_validator,
+        input_formatter="triple_quotes",
+    )
 
-print(type(result))
+    # Extract data
+    document_extraction_results = extract_data(document, llm, chain, split_docs)
 
-# ---------------------------------------------------
+    # Generate DataFrame and find most frequent values
+    df = generate_dataframe(document_extraction_results)
+    result = find_most_frequent(df)
 
-json_data = convert_to_json(result)
-
-name = result.get('constellationName', {}).get('modes', [None])[0] if isinstance(result.get('constellationName', {}), dict) else result.get('constellationName', None)
-
-
-# ---------------------------------------------------
-
-name
-
-# ---------------------------------------------------
-
-print(type(json_data))
-
-# ---------------------------------------------------
-
-json_data
-
-# ---------------------------------------------------
-
-if name is not None:
-    name = re.sub(r'\W+', '_', name)
-    filename = f'output/{name}_{model}_data.json'
-
-    with open(filename, 'w+') as txt_file:
-        txt_file.write(json_data)
-
+    # Save the result to file
+    json_data = convert_to_json(result)
+    save_to_file(json_data, model)
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    model = "gpt-3.5-turbo"
+    filename = "data/authorize_doc/StarlinkGen2_FCC-22-91A1.txt"
+    main(model, filename)
