@@ -280,17 +280,24 @@ print(chain.prompt.format_prompt(text="[user input]").to_string())
 
 # ---------------------------------------------------
 
-with get_openai_callback() as cb:
-    document_extraction_results = await extract_from_documents(
-        chain, split_docs, max_concurrency=5, use_uid=False, return_exceptions=True
-    )
-    #split_docs is where we input the document we want to extract
-    #use_uid: parameter that determine whether or not to use a unique identifier (uid)when processesing document
-    print(f"Total Tokens: {cb.total_tokens}")
-    print(f"Prompt Tokens: {cb.prompt_tokens}")
-    print(f"Completion Tokens: {cb.completion_tokens}")
-    print(f"Successful Requests: {cb.successful_requests}")
-    print(f"Total Cost (USD): ${cb.total_cost}")
+import asyncio
+
+async def main():
+    with get_openai_callback() as cb:
+        document_extraction_results = await extract_from_documents(
+            chain, split_docs, max_concurrency=5, use_uid=False, return_exceptions=True
+        )
+
+        # Handling potential exceptions
+        for result in document_extraction_results:
+            if isinstance(result, Exception):
+                print(f"Error encountered: {result}")
+
+        print(f"Total Tokens: {cb.total_tokens}")
+        print(f"Prompt Tokens: {cb.prompt_tokens}")
+        print(f"Completion Tokens: {cb.completion_tokens}")
+        print(f"Successful Requests: {cb.successful_requests}")
+        print(f"Total Cost (USD): ${cb.total_cost}")
 
 # ---------------------------------------------------
 
@@ -422,5 +429,5 @@ if name is not None:
         txt_file.write(json_data)
 
 
-if __name__ == '__main__':
-    pass
+if __name__ == "__main__":
+    asyncio.run(main())
