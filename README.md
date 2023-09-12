@@ -1,9 +1,17 @@
 # Information Extraction
- Leveraging Language Models for Information Extraction of Entities in Orbital Environment Evolution
+ Title: **Leveraging Language Models for Information Extraction of Entities in Orbital Environment Evolution**
 ## Abstract
+Emerging commercial models, stakeholders, and technologies are driving a diverse range of advanced mega satellites constellation services. Major players are competitively launching Fixed Satellite System (FSS), mainly in Low Earth Orbit (LEO). This mega constellation comprise of hundreds and thousands satellites.
+Research into the evolution of the orbital environment has been conducted to illustrate how the distribution of satellites changes over time. Visualizing this orbital environment evolution and conducting conjunction analyses serves as a means of democratizing this information, making it accessible for the public, scientific community, and regulatory bodies. 
+Official authorized documents from regulatory bodies like the FCC (Federal Communication Commissions) play a pivotal role in predicting space population and orbital environment. However, Manual extraction of information is labor-intensive, making it suitable for Information Extraction (IE) tasks, a field in Natural Language Processing (NLP).
+
+This project is designed with the objective of locating and extracting a total of **11 granted orbital environment entities** from unstructured FCC documents. These entities consist of one proper noun entity, referred to as 'constellationName,' three date entities, and seven entities represented by integers or floating-point numbers.
+The project will explore 3 methods or approaches in leveraging language model which are **In-Context Learning with Large Language Models (LLMs)**, **Embedding with Retrieval QA (Question Answer) model** and **Fine Tuning QA (Question Answer) model**. The results of each method are organized into two tables: one that calculates recall, encompassing all possible values of proposed and granted entities, and another that calculates precision, specifically focusing on granted entities only
+
+In the evaluation of different methods, **In-Context Learning** emerges as the leader in recall, effectively capturing all types of entities, both granted and proposed. Its strength lies in its capacity to obtained insights from descriptions and examples, allowing it to comprehensively extract information. On the other hand, **Embedding** stands out for its exceptional precision. It achieves this by tailoring its inquiries to identify only 'authorized' or 'granted' entities and subsequently gauging their relevance through cosine similarity calculations with the embedded document. However, **Fine-Tuning** falls short in the assessment, registering a precision score of 0. The primary reasons for this underperformance are the limitations of the training and validation datasets, consisting of just 42 and 11 IDs, respectively. Additionally, overfitting compounds the challenges faced by the Fine-Tuning approach
 
 ### Entities and Description
-| No. | Entities | Column 3 Header |
+| No. | Entities | Description |
 | --------------- | --------------- | --------------- |
 | 1    | constellationName    | The satellite constellation name for which the company applied to deploy or operate    |
 | 2   | dateRelease    | The date the document release     |
