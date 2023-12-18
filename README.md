@@ -1,5 +1,15 @@
 # Information Extraction
+
  Title: **Leveraging Language Models for Information Extraction of Entities in Orbital Environment Evolution**
+ 
+ **Table of Content**
+ 1. [Abstract](https://github.com/AlinZohari/InformationExtraction?tab=readme-ov-file#abstract)
+ 2. [Entities and its description](https://github.com/AlinZohari/InformationExtraction?tab=readme-ov-file#entities-and-description)
+ 3. [Libraries and Dependencies](https://github.com/AlinZohari/InformationExtraction?tab=readme-ov-file#dependencies)
+ 4. [Methodology Steps](https://github.com/AlinZohari/InformationExtraction?tab=readme-ov-file#methodology-steps)
+ 5. [Methods](https://github.com/AlinZohari/InformationExtraction?tab=readme-ov-file#methods)
+ 6. [Results](https://github.com/AlinZohari/InformationExtraction?tab=readme-ov-file#results)
+    
 ## Abstract
 Emerging commercial models, stakeholders, and technologies are driving a diverse range of advanced mega satellites constellation services. Major players are competitively launching Fixed Satellite System (FSS), mainly in Low Earth Orbit (LEO). This mega constellation comprise of hundreds and thousands satellites.
 Research into the evolution of the orbital environment has been conducted to illustrate how the distribution of satellites changes over time. Visualizing this orbital environment evolution and conducting conjunction analyses serves as a means of democratizing this information, making it accessible for the public, scientific community, and regulatory bodies. 
