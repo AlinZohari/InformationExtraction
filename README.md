@@ -37,18 +37,20 @@ In the evaluation of different methods, **In-Context Learning** emerges as the l
 
 
 ## Dependencies
-huggingface-hub==0.16.4 <br>
-kor==0.13.0<br>
-langchain==0.0.245<br>
-numpy==1.24.4<br>
-openai==0.27.8<br>
-pandas==1.5.3<br>
-pydantic==1.10.11<br>
-regex==2023.6.3<br>
-scikit-learn==1.3.0<br>
-simpletransformers==0.64.3<br>
-spacy==3.6.0<br>
-transformers==4.31.0
+
+- [huggingface-hub](https://github.com/huggingface/huggingface_hub) (v0.16.4)
+- [kor](https://github.com/lilohuang/Kor) (v0.13.0)
+- [langchain](https://github.com/langchain/langchain) (v0.0.245)
+- [NumPy](https://numpy.org/) (v1.24.4)
+- [openai](https://github.com/openai/openai) (v0.27.8)
+- [Pandas](https://pandas.pydata.org/) (v1.5.3)
+- [Pydantic](https://pydantic-docs.helpmanual.io/) (v1.10.11)
+- [regex](https://github.com/python/regex) (v2023.6.3)
+- [scikit-learn](https://scikit-learn.org/stable/) (v1.3.0)
+- [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) (v0.64.3)
+- [spaCy](https://spacy.io/) (v3.6.0)
+- [transformers](https://github.com/huggingface/transformers) (v4.31.0)
+
 
 
 ## Methodology Steps
