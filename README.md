@@ -5,7 +5,7 @@
  **Table of Content**
  1. [Abstract](https://github.com/AlinZohari/InformationExtraction?tab=readme-ov-file#abstract)
  2. [Entities and its description](https://github.com/AlinZohari/InformationExtraction?tab=readme-ov-file#entities-and-description)
- 3. [Libraries and Dependencies](https://github.com/AlinZohari/InformationExtraction?tab=readme-ov-file#dependencies)
+ 3. [Dependencies](https://github.com/AlinZohari/InformationExtraction?tab=readme-ov-file#dependencies)
  4. [Methodology Steps](https://github.com/AlinZohari/InformationExtraction?tab=readme-ov-file#methodology-steps)
  5. [Methods](https://github.com/AlinZohari/InformationExtraction?tab=readme-ov-file#methods)
  6. [Results](https://github.com/AlinZohari/InformationExtraction?tab=readme-ov-file#results)
